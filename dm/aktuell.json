@@ -1,5 +1,25 @@
 {
- "fall": "004",
- "titel": "Spoiler in der Waschanlage",
- "_hinweis": "Testwert bis zum ersten Lauf; setzt der Tageslauf"
+ "version": "v2",
+ "content": {
+  "type": "instagram",
+  "messages": [
+   {
+    "type": "text",
+    "text": "Deine Antwort gilt für Fall 004 «Spoiler in der Waschanlage»."
+   }
+  ],
+  "actions": [
+   {
+    "action": "set_field_value",
+    "field_name": "fall",
+    "value": "004"
+   },
+   {
+    "action": "set_field_value",
+    "field_name": "fall_titel",
+    "value": "Spoiler in der Waschanlage"
+   }
+  ],
+  "quick_replies": []
+ }
 }
