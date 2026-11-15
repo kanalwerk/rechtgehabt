@@ -1,0 +1,22 @@
+{
+ "version": "v2",
+ "content": {
+  "type": "instagram",
+  "messages": [
+   {
+    "type": "text",
+    "text": "❌ Diesmal nicht. Das Gericht hat anders entschieden."
+   },
+   {
+    "type": "image",
+    "url": "https://kanalwerk.github.io/rechtgehabt/karten/003/aufloesung.png"
+   },
+   {
+    "type": "text",
+    "text": "Kennst du jemanden, den das interessiert? Schick ihm das Reel. Morgen kommt der nächste Fall."
+   }
+  ],
+  "actions": [],
+  "quick_replies": []
+ }
+}

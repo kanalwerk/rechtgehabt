@@ -1,0 +1,34 @@
+{
+ "kanal": "Recht gehabt?",
+ "handle": "@rechtgehabt",
+ "wortmarke": "Recht gehabt?",
+ "sprache": "de-CH",
+ "schweizer_schreibweise": true,
+ "zahlformat": {
+  "tausender": "’",
+  "dezimal": ","
+ },
+ "stichwort": "A / B",
+ "_hinweis": "Entscheid Timo 15.11.2026: Richtung A «Akte». Titel-Schrift Source Serif 4 (SIL OFL) muss im Kanal-Repo liegen und vor dem Rendern installiert werden.",
+ "schrift": {
+  "titel": "Source Serif 4",
+  "text": "Inter"
+ },
+ "radius": 18,
+ "farben": {
+  "hell": "#F4EFE4",
+  "dunkel": "#18213A",
+  "ged_hell": "#6E6656",
+  "ged_dunkel": "#A3ABC0",
+  "flaeche_hell": "#FFFFFF",
+  "flaeche_dunkel": "#232E4C",
+  "akzent": "#C8372D",
+  "akzent_text": "#FFFFFF",
+  "option": [
+   "#2457C5",
+   "#D9822B"
+  ],
+  "richtig": "#2E8B57"
+ },
+ "profil_symbol": "paragraf"
+}

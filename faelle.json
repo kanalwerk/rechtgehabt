@@ -1,0 +1,447 @@
+{
+ "naechste_nr": 7,
+ "faelle": [
+  {
+   "nr": "001",
+   "status": "vorrat",
+   "land": "DE",
+   "bereich": "Einkaufen und Verträge",
+   "thema": "Vertrag: Karatevertrag abgelaufen",
+   "gericht": "AG München",
+   "datum": "2026-02-09",
+   "aktenzeichen": "191 C 10975/25",
+   "rechtskraft": "rechtskräftig",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "AG München, Pressemitteilung 15/2026",
+     "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/15.php",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 1665606,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Muss der Vater fürs Karate zahlen?",
+     "sachverhalt": [
+      "Ein Vater meldet seinen Sohn für sechs Monate im Karate an.",
+      "Danach trainiert der Junge einfach weiter. Einen neuen Vertrag gibt es nicht.",
+      "Nach einem Jahr zahlt der Vater nicht mehr. Die Schule verlangt 1539 Euro."
+     ],
+     "frage": "Muss der Vater nachzahlen?",
+     "optionen": {
+      "A": "Ja, der Vertrag lief weiter.",
+      "B": "Nein, ohne neuen Vertrag keine Pflicht."
+     },
+     "ergebnis": "Richtig: Ja, er muss zahlen.",
+     "headline": "Wer einfach weitermacht, verlängert den Vertrag",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Amtsgericht München verurteilt den Vater, 1539 Euro nachzuzahlen."
+      ],
+      [
+       "Warum",
+       "Machen beide nach Vertragsende einfach weiter, läuft der Vertrag unbefristet weiter (§ 625 BGB). Der Sohn trainierte weiter und legte sogar Prüfungen ab."
+      ],
+      [
+       "Gut zu wissen",
+       "Ein unbefristeter Vertrag läuft, bis jemand kündigt."
+      ]
+     ],
+     "quelle": "AG München, Urteil vom 09.02.2026, 191 C 10975/25 (rechtskräftig)",
+     "gilt": "Gilt für Deutschland",
+     "teilen": "Kennst du Eltern mit Vereinsverträgen? Schick's weiter.",
+     "hashtags": [
+      "#vertragsrecht",
+      "#eltern",
+      "#urteil",
+      "#recht",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-15",
+     "lauf": "einrichtung"
+    }
+   ],
+   "verwendet_am": null
+  },
+  {
+   "nr": "002",
+   "status": "vorrat",
+   "land": "AT",
+   "bereich": "Wohnen und Miete",
+   "thema": "Miete: Wer darf mitwohnen?",
+   "gericht": "OGH",
+   "datum": "2026-09-29",
+   "aktenzeichen": "6 Ob 113/25y",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "OGH-Kurzfassung 6 Ob 113/25y",
+     "url": "https://www.ogh.gv.at/?p=13231",
+     "art": "primaer"
+    },
+    {
+     "titel": "RIS-Volltext",
+     "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20260929_OGH0002_0060OB00113_25Y0000_000",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 1845884,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Wer darf in deiner Miet­wohnung wohnen?",
+     "sachverhalt": [
+      "Eine Vermieterin nutzt Formular-Mietverträge.",
+      "Darin steht: Nur der Mieter, sein Partner und ihre Kinder dürfen die Wohnung nutzen – und nur bei dringendem Wohnbedarf.",
+      "Die Arbeiterkammer klagt gegen diese und 57 weitere Klauseln."
+     ],
+     "frage": "Ist diese Klausel gültig?",
+     "optionen": {
+      "A": "Ja, die Vermieterin darf das festlegen.",
+      "B": "Nein, die Klausel ist unzulässig."
+     },
+     "ergebnis": "Richtig: Die Klausel ist unzulässig.",
+     "headline": "Nahe Angehörige dürfen mitwohnen",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Der Oberste Gerichtshof verbietet die Klausel, zusammen mit vielen weiteren."
+      ],
+      [
+       "Warum",
+       "Sie benachteiligt Mieter grob und ist unklar. Nahe Angehörige wie Eltern oder Geschwister dürfen grundsätzlich mitwohnen."
+      ],
+      [
+       "Gilt für",
+       "Formular-Mietverträge zwischen Vermietern und Verbrauchern in Österreich."
+      ]
+     ],
+     "quelle": "OGH, 29.09.2026, 6 Ob 113/25y",
+     "gilt": "Gilt für Österreich",
+     "teilen": "Wohnst du zur Miete? Schick's deiner WG.",
+     "hashtags": [
+      "#mietrecht",
+      "#wohnen",
+      "#österreich",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-15",
+     "lauf": "einrichtung"
+    }
+   ],
+   "verwendet_am": null
+  },
+  {
+   "nr": "003",
+   "status": "vorrat",
+   "land": "CH",
+   "bereich": "Auto und Verkehr",
+   "thema": "Verkehr: 1 km/h zu schnell",
+   "gericht": "Bundesgericht",
+   "datum": "2026-05-07",
+   "aktenzeichen": "6B_573/2024",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "Bundesgericht 6B_573/2024",
+     "url": "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza://07-05-2026-6B_573-2024&lang=de&type=show_document",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 7392734,
+    "pos": "66% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "1 km/h zu schnell: Radar oder Tacho?",
+     "sachverhalt": [
+      "Ein Rollerfahrer wird innerorts im Kanton Luzern geblitzt: 1 km/h zu schnell, nach Abzug der Toleranz.",
+      "Busse: 40 Franken. Er wehrt sich bis vor Bundesgericht.",
+      "Sein Argument: Auf dem Tacho habe er nicht sehen können, wie schnell er war."
+     ],
+     "frage": "Was zählt vor Gericht?",
+     "optionen": {
+      "A": "Das Radar.",
+      "B": "Der Tacho."
+     },
+     "ergebnis": "Richtig: Das Radar zählt.",
+     "headline": "Aus 40 Franken werden rund 6900",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Bundesgericht weist die Beschwerde ab. Massgebend ist das Radargerät, nicht der Tacho."
+      ],
+      [
+       "Warum",
+       "Den Tacho richtig abzulesen, liegt in der Verantwortung des Fahrers."
+      ],
+      [
+       "Die Rechnung",
+       "40 Franken Busse, 3840 Franken Kosten vor Kantonsgericht, 3000 Franken vor Bundesgericht."
+      ]
+     ],
+     "quelle": "Bundesgericht, Urteil vom 07.05.2026, 6B_573/2024",
+     "gilt": "Gilt für die Schweiz",
+     "teilen": "Kennst du jemanden mit Roller oder Auto? Schick's weiter.",
+     "hashtags": [
+      "#verkehr",
+      "#busse",
+      "#schweiz",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-15",
+     "lauf": "einrichtung"
+    }
+   ],
+   "verwendet_am": null
+  },
+  {
+   "nr": "004",
+   "status": "vorrat",
+   "land": "DE",
+   "bereich": "Auto und Verkehr",
+   "thema": "Auto: Spoiler in der Waschanlage",
+   "gericht": "AG München",
+   "datum": "2026-07-16",
+   "aktenzeichen": "112 C 17109/25",
+   "rechtskraft": "rechtskräftig",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "AG München, Pressemitteilung 34/2026",
+     "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/34.php",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 1619823,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Spoiler in der Wasch­anlage abgerissen: Wer zahlt?",
+     "sachverhalt": [
+      "Eine Frau fährt mit dem VW Beetle ihres Mannes durch die Waschanlage einer Tankstelle in München.",
+      "Danach ist der Heckspoiler beschädigt. Der Mann verlangt vom Betreiber rund 1230 Euro.",
+      "Der Betreiber sagt: Ein Schild warnt genau davor. Die Frau sagt: Da hing kein Schild."
+     ],
+     "frage": "Muss der Betreiber zahlen?",
+     "optionen": {
+      "A": "Ja, die Anlage hat den Schaden gemacht.",
+      "B": "Nein, das Warnschild hing."
+     },
+     "ergebnis": "Richtig: Nein, er muss nicht zahlen.",
+     "headline": "Das Warnschild hat ihn gerettet",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Amtsgericht München weist die Klage ab."
+      ],
+      [
+       "Warum",
+       "Zeuginnen bestätigten, dass das Schild schon lange hing. Das Gericht geht davon aus, dass die Fahrerin es übersehen hat."
+      ],
+      [
+       "Gut zu wissen",
+       "Grundsätzlich trägt der Betreiber das Risiko, wenn seine Anlage für ein gängiges Auto ungeeignet ist. Hier hatte er aber gewarnt."
+      ]
+     ],
+     "quelle": "AG München, Urteil vom 16.07.2026, 112 C 17109/25 (rechtskräftig)",
+     "gilt": "Gilt für Deutschland",
+     "teilen": "Kennst du jemanden, der gern durch die Waschanlage fährt? Schick's weiter.",
+     "hashtags": [
+      "#waschanlage",
+      "#auto",
+      "#urteil",
+      "#recht",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-15",
+     "lauf": "einrichtung"
+    }
+   ],
+   "verwendet_am": null
+  },
+  {
+   "nr": "005",
+   "status": "vorrat",
+   "land": "CH",
+   "bereich": "Auto und Verkehr",
+   "thema": "Verkehr: Besucherparkplatz",
+   "gericht": "Bundesgericht",
+   "datum": "2026-06-16",
+   "aktenzeichen": "6B_829/2025",
+   "rechtskraft": "Höchstgericht (Rückweisung)",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "Bundesgericht 6B_829/2025 (Volltext, französisch)",
+     "url": "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza://16-06-2026-6B_829-2025&lang=de&zoom=&type=show_document",
+     "art": "primaer"
+    },
+    {
+     "titel": "SRF, 17.07.2026 (Hinweis)",
+     "url": "https://www.srf.ch/news/schweiz/bundesgerichtsurteil-parkieren-auf-besucherparkplatz-ist-nicht-strafbar",
+     "art": "hinweis"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 7921955,
+    "pos": "80% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Bewohner auf dem Besucher­parkplatz: Busse?",
+     "sachverhalt": [
+      "Ein Mann parkiert an einem Sonntag in Genf auf einem Parkfeld bei seinem Wohnhaus.",
+      "Am Boden steht «visiteurs»: Das Feld ist für Besucher. Er wohnt aber selbst im Haus.",
+      "Die Polizei büsst ihn mit 40 Franken. Er wehrt sich bis vor Bundesgericht."
+     ],
+     "frage": "Durfte die Polizei ihn büssen?",
+     "optionen": {
+      "A": "Ja, er ist kein Besucher.",
+      "B": "Nein, das ist nicht strafbar."
+     },
+     "ergebnis": "Richtig: Keine Busse.",
+     "headline": "«Besucher» am Boden reicht nicht für eine Busse",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Bundesgericht heisst seine Beschwerde gut und schickt den Fall zurück nach Genf."
+      ],
+      [
+       "Warum",
+       "Die Aufschrift «Besucher» ist kein offizielles Verkehrssignal. Wer dort parkiert, verletzt keine Verkehrsregel."
+      ],
+      [
+       "Gut zu wissen",
+       "Mit einem offiziellen Signal «Parkieren verboten» sähe es anders aus. Der Kanton muss ihm 3000 Franken Entschädigung zahlen."
+      ]
+     ],
+     "quelle": "Bundesgericht, Urteil vom 16.06.2026, 6B_829/2025",
+     "gilt": "Gilt für die Schweiz",
+     "teilen": "Streit um Besucherparkplätze im Quartier? Schick's weiter.",
+     "hashtags": [
+      "#parkieren",
+      "#busse",
+      "#schweiz",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-15",
+     "lauf": "einrichtung"
+    }
+   ],
+   "verwendet_am": null
+  },
+  {
+   "nr": "006",
+   "status": "vorrat",
+   "land": "AT",
+   "bereich": "Wohnen und Miete",
+   "thema": "Miete: unbekannter Mangel",
+   "gericht": "OGH",
+   "datum": "2023-12-19",
+   "aktenzeichen": "5 Ob 176/23b",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "OGH-Kurzfassung 5 Ob 176/23b",
+     "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/mietzinsminderungsanspruch-auch-ohne-maengelanzeige-betreffend-eine-gefaehrliche-elektrische-anlage/",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 1080586,
+    "pos": "50% 40%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Gefährliche Elektrik nie gemeldet: Weniger Miete?",
+     "sachverhalt": [
+      "Die Elektroinstallation einer Mietwohnung ist gefährlich. Die Mieter wissen nichts davon.",
+      "Die Vermieter hatten sogar einen positiven Elektrobefund. Der war aber fehlerhaft.",
+      "Erst ein Brand zeigt das Problem. Die Mieter wollen rückwirkend weniger Miete zahlen, obwohl sie den Mangel nie gemeldet haben."
+     ],
+     "frage": "Dürfen sie die Miete mindern?",
+     "optionen": {
+      "A": "Ja, auch ohne Meldung.",
+      "B": "Nein, sie hätten den Mangel melden müssen."
+     },
+     "ergebnis": "Richtig: Ja, auch ohne Meldung.",
+     "headline": "Unbekannte Mängel muss man nicht melden",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Der Oberste Gerichtshof gibt den Mietern recht: Sie dürfen die Miete auch für die Zeit vor dem Brand mindern."
+      ],
+      [
+       "Warum",
+       "Wer einen Mangel weder kannte noch erkennen konnte, muss ihn nicht anzeigen. Das Risiko trägt der Vermieter."
+      ],
+      [
+       "Gut zu wissen",
+       "Wie stark die Miete sinkt, hängt davon ab, wie gut die Wohnung trotzdem nutzbar war."
+      ]
+     ],
+     "quelle": "OGH, 19.12.2023, 5 Ob 176/23b",
+     "gilt": "Gilt für Österreich",
+     "teilen": "Wohnst du zur Miete? Schick's deinen Mitbewohnern.",
+     "hashtags": [
+      "#mietrecht",
+      "#wohnen",
+      "#österreich",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-15",
+     "lauf": "einrichtung"
+    }
+   ],
+   "verwendet_am": null
+  }
+ ]
+}

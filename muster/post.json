@@ -1,0 +1,151 @@
+{
+ "datum": "2026-11-16",
+ "thema": "Auto: Spoiler in der Waschanlage",
+ "land": "DE",
+ "quellen": [
+  {
+   "titel": "AG München, Pressemitteilung 34/2026",
+   "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/34.php"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../img/1619823.jpg",
+     "bild_pos": "50% 50%",
+     "position": "unten",
+     "label": "Fall 004",
+     "badge": "DE",
+     "titel": "Spoiler in der Wasch­anlage abgerissen: Wer zahlt?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 4.6,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "DE",
+     "sachverhalt": [
+      "Eine Frau fährt mit dem VW Beetle ihres Mannes durch die Waschanlage einer Tankstelle in München.",
+      "Danach ist der Heckspoiler beschädigt. Der Mann verlangt vom Betreiber rund 1230 Euro.",
+      "Der Betreiber sagt: Ein Schild warnt genau davor. Die Frau sagt: Da hing kein Schild."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "DE",
+     "frage": "Muss der Betreiber zahlen?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, die Anlage hat den Schaden gemacht."
+      },
+      {
+       "key": "B",
+       "text": "Nein, das Warnschild hing."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Kennst du jemanden, der gern durch die Waschanlage fährt? Schick's weiter."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "DE",
+    "label": "Auflösung · Fall 004",
+    "ergebnis": {
+     "key": "B",
+     "text": "Richtig: Nein, er muss nicht zahlen."
+    },
+    "headline": "Das Warnschild hat ihn gerettet",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Amtsgericht München weist die Klage ab."
+     ],
+     [
+      "Warum",
+      "Zeuginnen bestätigten, dass das Schild schon lange hing. Das Gericht geht davon aus, dass die Fahrerin es übersehen hat."
+     ],
+     [
+      "Gut zu wissen",
+      "Grundsätzlich trägt der Betreiber das Risiko, wenn seine Anlage für ein gängiges Auto ungeeignet ist. Hier hatte er aber gewarnt."
+     ]
+    ],
+    "quelle": "AG München, Urteil vom 16.07.2026, 112 C 17109/25 (rechtskräftig)",
+    "hinweis": "Gilt für Deutschland · Keine Rechtsberatung",
+    "bild": "../img/1619823.jpg",
+    "bild_pos": "50% 50%"
+   }
+  },
+  {
+   "datei": "story.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 004",
+    "badge": "DE",
+    "frage": "Muss der Betreiber zahlen?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, die Anlage hat den Schaden gemacht."
+     },
+     {
+      "key": "B",
+      "text": "Nein, das Warnschild hing."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  },
+  {
+   "datei": "profilbild.png",
+   "format": "profil",
+   "folie": {
+    "layout": "profil",
+    "thema": "dunkel",
+    "symbol": "paragraf",
+    "zeilen": [
+     "Recht",
+     "gehabt?"
+    ]
+   }
+  }
+ ],
+ "bildunterschrift": "Spoiler in der Waschanlage abgerissen: Wer zahlt? Muss der Betreiber zahlen?\nA oder B – was meinst du? Schreib uns A oder B per DM, die Auflösung kommt sofort.\nKennst du jemanden, der gern durch die Waschanlage fährt? Schick's weiter.\n\nFall 004: AG München, Urteil vom 16.07.2026, 112 C 17109/25 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#waschanlage #auto #urteil #recht #rechtgehabt"
+}
