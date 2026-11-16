@@ -1,0 +1,174 @@
+{
+ "datum": "2026-11-17",
+ "thema": "Verkehr: Besucherparkplatz",
+ "land": "CH",
+ "quellen": [
+  {
+   "titel": "Bundesgericht 6B_829/2025 (Volltext, französisch)",
+   "url": "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza://16-06-2026-6B_829-2025&lang=de&zoom=&type=show_document",
+   "art": "primaer"
+  },
+  {
+   "titel": "SRF, 17.07.2026 (Hinweis)",
+   "url": "https://www.srf.ch/news/schweiz/bundesgerichtsurteil-parkieren-auf-besucherparkplatz-ist-nicht-strafbar",
+   "art": "hinweis"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../../img/7921955.jpg",
+     "bild_pos": "80% 50%",
+     "position": "unten",
+     "label": "Fall 005",
+     "badge": "CH",
+     "titel": "Bewohner auf dem Besucher­parkplatz: Busse?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 4.6,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "CH",
+     "sachverhalt": [
+      "Ein Mann parkiert an einem Sonntag in Genf auf einem Parkfeld bei seinem Wohnhaus.",
+      "Am Boden steht «visiteurs»: Das Feld ist für Besucher. Er wohnt aber selbst im Haus.",
+      "Die Polizei büsst ihn mit 40 Franken. Er wehrt sich bis vor Bundesgericht."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "CH",
+     "frage": "Durfte die Polizei ihn büssen?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, er ist kein Besucher."
+      },
+      {
+       "key": "B",
+       "text": "Nein, das ist nicht strafbar."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Streit um Besucherparkplätze im Quartier? Schick's weiter."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "CH",
+    "label": "Auflösung · Fall 005",
+    "ergebnis": {
+     "key": "B",
+     "text": "Richtig: Keine Busse."
+    },
+    "headline": "«Besucher» am Boden reicht nicht für eine Busse",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Bundesgericht heisst seine Beschwerde gut und schickt den Fall zurück nach Genf."
+     ],
+     [
+      "Warum",
+      "Die Aufschrift «Besucher» ist kein offizielles Verkehrssignal. Wer dort parkiert, verletzt keine Verkehrsregel."
+     ],
+     [
+      "Gut zu wissen",
+      "Mit einem offiziellen Signal «Parkieren verboten» sähe es anders aus. Der Kanton muss ihm 3000 Franken Entschädigung zahlen."
+     ]
+    ],
+    "quelle": "Bundesgericht, Urteil vom 16.06.2026, 6B_829/2025",
+    "hinweis": "Gilt für die Schweiz · Keine Rechtsberatung",
+    "bild": "../../img/7921955.jpg",
+    "bild_pos": "80% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/7921955.jpg",
+    "bild_pos": "80% 50%",
+    "position": "unten",
+    "label": "Fall 005",
+    "badge": "CH",
+    "titel": "Bewohner auf dem Besucher­parkplatz: Busse?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 005 · Der Fall",
+    "badge": "CH",
+    "sachverhalt": [
+     "Ein Mann parkiert an einem Sonntag in Genf auf einem Parkfeld bei seinem Wohnhaus.",
+     "Am Boden steht «visiteurs»: Das Feld ist für Besucher. Er wohnt aber selbst im Haus.",
+     "Die Polizei büsst ihn mit 40 Franken. Er wehrt sich bis vor Bundesgericht."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 005",
+    "badge": "CH",
+    "frage": "Durfte die Polizei ihn büssen?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, er ist kein Besucher."
+     },
+     {
+      "key": "B",
+      "text": "Nein, das ist nicht strafbar."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Bewohner auf dem Besucherparkplatz – durfte die Polizei ihn büssen?\nA: Ja, er ist kein Besucher.\nB: Nein, das ist nicht strafbar.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nStreit um Besucherparkplätze im Quartier? Schick's weiter.\n\nFall 005: Bundesgericht, Urteil vom 16.06.2026, 6B_829/2025 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#parkieren #busse #schweiz #urteil"
+}

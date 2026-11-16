@@ -301,7 +301,7 @@
   },
   {
    "nr": "005",
-   "status": "vorrat",
+   "status": "geplant",
    "land": "CH",
    "bereich": "Auto und Verkehr",
    "thema": "Verkehr: Besucherparkplatz",
@@ -372,9 +372,14 @@
     {
      "datum": "2026-11-15",
      "lauf": "einrichtung"
+    },
+    {
+     "datum": "2026-11-16",
+     "lauf": "zweite Prüfung vor Beitrag (Firecrawl, Volltext BGer)"
     }
    ],
-   "verwendet_am": null
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-17"
   },
   {
    "nr": "006",
