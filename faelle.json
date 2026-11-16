@@ -224,7 +224,7 @@
   },
   {
    "nr": "004",
-   "status": "vorrat",
+   "status": "verwendet",
    "land": "DE",
    "bereich": "Auto und Verkehr",
    "thema": "Auto: Spoiler in der Waschanlage",
@@ -290,9 +290,14 @@
     {
      "datum": "2026-11-15",
      "lauf": "einrichtung"
+    },
+    {
+     "datum": "2026-11-16",
+     "lauf": "erster Beitrag (von Hand gepostet)"
     }
    ],
-   "verwendet_am": null
+   "verwendet_am": "2026-11-16",
+   "beitrag": "https://www.instagram.com/p/DfzvsP0NPoA/"
   },
   {
    "nr": "005",
