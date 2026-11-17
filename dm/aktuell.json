@@ -5,19 +5,19 @@
   "messages": [
    {
     "type": "text",
-    "text": "Deine Antwort gilt für Fall 004 «Spoiler in der Waschanlage»."
+    "text": "Deine Antwort gilt für Fall 005 «Bewohner auf dem Besucherparkplatz»."
    }
   ],
   "actions": [
    {
     "action": "set_field_value",
     "field_name": "fall",
-    "value": "004"
+    "value": "005"
    },
    {
     "action": "set_field_value",
     "field_name": "fall_titel",
-    "value": "Spoiler in der Waschanlage"
+    "value": "Bewohner auf dem Besucherparkplatz"
    }
   ],
   "quick_replies": []
