@@ -383,7 +383,7 @@
   },
   {
    "nr": "006",
-   "status": "vorrat",
+   "status": "geplant",
    "land": "AT",
    "bereich": "Wohnen und Miete",
    "thema": "Miete: unbekannter Mangel",
@@ -449,9 +449,14 @@
     {
      "datum": "2026-11-15",
      "lauf": "einrichtung"
+    },
+    {
+     "datum": "2026-11-18",
+     "lauf": "zweite Prüfung vor Beitrag (Firecrawl, OGH-Kurzfassung)"
     }
    ],
-   "verwendet_am": null
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-18"
   }
  ]
 }

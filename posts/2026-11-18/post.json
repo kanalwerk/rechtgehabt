@@ -1,0 +1,169 @@
+{
+ "datum": "2026-11-18",
+ "thema": "Miete: unbekannter Mangel",
+ "land": "AT",
+ "quellen": [
+  {
+   "titel": "OGH-Kurzfassung 5 Ob 176/23b",
+   "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/mietzinsminderungsanspruch-auch-ohne-maengelanzeige-betreffend-eine-gefaehrliche-elektrische-anlage/",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../../img/1080586.jpg",
+     "bild_pos": "50% 40%",
+     "position": "unten",
+     "label": "Fall 006",
+     "badge": "AT",
+     "titel": "Gefährliche Elektrik nie gemeldet: Weniger Miete?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 4.6,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "AT",
+     "sachverhalt": [
+      "Die Elektroinstallation einer Mietwohnung ist gefährlich. Die Mieter wissen nichts davon.",
+      "Die Vermieter hatten sogar einen positiven Elektrobefund. Der war aber fehlerhaft.",
+      "Erst ein Brand zeigt das Problem. Die Mieter wollen rückwirkend weniger Miete zahlen, obwohl sie den Mangel nie gemeldet haben."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "AT",
+     "frage": "Dürfen sie die Miete mindern?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, auch ohne Meldung."
+      },
+      {
+       "key": "B",
+       "text": "Nein, sie hätten den Mangel melden müssen."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Wohnst du zur Miete? Schick's deinen Mitbewohnern."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "AT",
+    "label": "Auflösung · Fall 006",
+    "ergebnis": {
+     "key": "A",
+     "text": "Richtig: Ja, auch ohne Meldung."
+    },
+    "headline": "Unbekannte Mängel muss man nicht melden",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Der Oberste Gerichtshof gibt den Mietern recht: Sie dürfen die Miete auch für die Zeit vor dem Brand mindern."
+     ],
+     [
+      "Warum",
+      "Wer einen Mangel weder kannte noch erkennen konnte, muss ihn nicht anzeigen. Das Risiko trägt der Vermieter."
+     ],
+     [
+      "Gut zu wissen",
+      "Wie stark die Miete sinkt, hängt davon ab, wie gut die Wohnung trotzdem nutzbar war."
+     ]
+    ],
+    "quelle": "OGH, Beschluss vom 19.12.2023, 5 Ob 176/23b",
+    "hinweis": "Gilt für Österreich · Keine Rechtsberatung",
+    "bild": "../../img/1080586.jpg",
+    "bild_pos": "50% 40%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/1080586.jpg",
+    "bild_pos": "50% 40%",
+    "position": "unten",
+    "label": "Fall 006",
+    "badge": "AT",
+    "titel": "Gefährliche Elektrik nie gemeldet: Weniger Miete?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 006 · Der Fall",
+    "badge": "AT",
+    "sachverhalt": [
+     "Die Elektroinstallation einer Mietwohnung ist gefährlich. Die Mieter wissen nichts davon.",
+     "Die Vermieter hatten sogar einen positiven Elektrobefund. Der war aber fehlerhaft.",
+     "Erst ein Brand zeigt das Problem. Die Mieter wollen rückwirkend weniger Miete zahlen, obwohl sie den Mangel nie gemeldet haben."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 006",
+    "badge": "AT",
+    "frage": "Dürfen sie die Miete mindern?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, auch ohne Meldung."
+     },
+     {
+      "key": "B",
+      "text": "Nein, sie hätten den Mangel melden müssen."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Gefährliche Elektrik nie gemeldet – dürfen sie die Miete mindern?\nA: Ja, auch ohne Meldung.\nB: Nein, sie hätten den Mangel melden müssen.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nWohnst du zur Miete? Schick's deinen Mitbewohnern.\n\nFall 006: OGH, Beschluss vom 19.12.2023, 5 Ob 176/23b · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#mietrecht #wohnen #österreich #urteil"
+}
