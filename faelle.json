@@ -406,31 +406,31 @@
    },
    "texte": {
     "de": {
-     "titel": "Gefährliche Elektrik nie gemeldet: Weniger Miete?",
+     "titel": "Gefährliche Elektrik nicht bemerkt: Geld zurück?",
      "sachverhalt": [
-      "Die Elektroinstallation einer Mietwohnung ist gefährlich. Die Mieter wissen nichts davon.",
-      "Die Vermieter hatten sogar einen positiven Elektrobefund. Der war aber fehlerhaft.",
-      "Erst ein Brand zeigt das Problem. Die Mieter wollen rückwirkend weniger Miete zahlen, obwohl sie den Mangel nie gemeldet haben."
+      "Die Stromleitungen einer Mietwohnung sind gefährlich. Die Mieter merken nichts.",
+      "Auch der Vermieter nicht: Eine Fachfirma hatte die Anlage fälschlich als sicher eingestuft.",
+      "Erst ein Brand zeigt den Mangel. Nun wollen die Mieter für die Zeit davor Geld zurück."
      ],
-     "frage": "Dürfen sie die Miete mindern?",
+     "frage": "Bekommen die Mieter Geld zurück?",
      "optionen": {
-      "A": "Ja, auch ohne Meldung.",
-      "B": "Nein, sie hätten den Mangel melden müssen."
+      "A": "Ja, auch ohne Meldung des Mangels.",
+      "B": "Nein, ohne Meldung gibt es nichts."
      },
      "ergebnis": "Richtig: Ja, auch ohne Meldung.",
-     "headline": "Unbekannte Mängel muss man nicht melden",
+     "headline": "Wer nichts merkt, muss nichts melden",
      "punkte": [
       [
        "Das Urteil",
-       "Der Oberste Gerichtshof gibt den Mietern recht: Sie dürfen die Miete auch für die Zeit vor dem Brand mindern."
+       "Der Oberste Gerichtshof gibt den Mietern recht: Auch für die Zeit vor dem Brand steht ihnen eine tiefere Miete zu."
       ],
       [
        "Warum",
-       "Wer einen Mangel weder kannte noch erkennen konnte, muss ihn nicht anzeigen. Das Risiko trägt der Vermieter."
+       "Einen Mangel, den man weder kennt noch erkennen kann, muss man nicht melden. Das Risiko trägt der Vermieter."
       ],
       [
        "Gut zu wissen",
-       "Wie stark die Miete sinkt, hängt davon ab, wie gut die Wohnung trotzdem nutzbar war."
+       "Wie viel zurückkommt, hängt davon ab, wie gut die Wohnung trotzdem nutzbar war."
       ]
      ],
      "quelle": "OGH, 19.12.2023, 5 Ob 176/23b",

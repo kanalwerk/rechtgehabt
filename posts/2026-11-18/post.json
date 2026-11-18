@@ -23,21 +23,21 @@
      "position": "unten",
      "label": "Fall 006",
      "badge": "AT",
-     "titel": "Gefährliche Elektrik nie gemeldet: Weniger Miete?",
+     "titel": "Gefährliche Elektrik nicht bemerkt: Geld zurück?",
      "unter": "Wie hat das Gericht entschieden?"
     }
    },
    {
-    "dauer": 4.6,
+    "dauer": 5.2,
     "folie": {
      "layout": "frage",
      "thema": "hell",
      "label": "Der Fall",
      "badge": "AT",
      "sachverhalt": [
-      "Die Elektroinstallation einer Mietwohnung ist gefährlich. Die Mieter wissen nichts davon.",
-      "Die Vermieter hatten sogar einen positiven Elektrobefund. Der war aber fehlerhaft.",
-      "Erst ein Brand zeigt das Problem. Die Mieter wollen rückwirkend weniger Miete zahlen, obwohl sie den Mangel nie gemeldet haben."
+      "Die Stromleitungen einer Mietwohnung sind gefährlich. Die Mieter merken nichts.",
+      "Auch der Vermieter nicht: Eine Fachfirma hatte die Anlage fälschlich als sicher eingestuft.",
+      "Erst ein Brand zeigt den Mangel. Nun wollen die Mieter für die Zeit davor Geld zurück."
      ],
      "wortmarke": false
     }
@@ -49,15 +49,15 @@
      "thema": "dunkel",
      "label": "Und das Gericht?",
      "badge": "AT",
-     "frage": "Dürfen sie die Miete mindern?",
+     "frage": "Bekommen die Mieter Geld zurück?",
      "optionen": [
       {
        "key": "A",
-       "text": "Ja, auch ohne Meldung."
+       "text": "Ja, auch ohne Meldung des Mangels."
       },
       {
        "key": "B",
-       "text": "Nein, sie hätten den Mangel melden müssen."
+       "text": "Nein, ohne Meldung gibt es nichts."
       }
      ],
      "wortmarke": false
@@ -90,22 +90,22 @@
      "key": "A",
      "text": "Richtig: Ja, auch ohne Meldung."
     },
-    "headline": "Unbekannte Mängel muss man nicht melden",
+    "headline": "Wer nichts merkt, muss nichts melden",
     "punkte": [
      [
       "Das Urteil",
-      "Der Oberste Gerichtshof gibt den Mietern recht: Sie dürfen die Miete auch für die Zeit vor dem Brand mindern."
+      "Der Oberste Gerichtshof gibt den Mietern recht: Auch für die Zeit vor dem Brand steht ihnen eine tiefere Miete zu."
      ],
      [
       "Warum",
-      "Wer einen Mangel weder kannte noch erkennen konnte, muss ihn nicht anzeigen. Das Risiko trägt der Vermieter."
+      "Einen Mangel, den man weder kennt noch erkennen kann, muss man nicht melden. Das Risiko trägt der Vermieter."
      ],
      [
       "Gut zu wissen",
-      "Wie stark die Miete sinkt, hängt davon ab, wie gut die Wohnung trotzdem nutzbar war."
+      "Wie viel zurückkommt, hängt davon ab, wie gut die Wohnung trotzdem nutzbar war."
      ]
     ],
-    "quelle": "OGH, Beschluss vom 19.12.2023, 5 Ob 176/23b",
+    "quelle": "OGH, 19.12.2023, 5 Ob 176/23b",
     "hinweis": "Gilt für Österreich · Keine Rechtsberatung",
     "bild": "../../img/1080586.jpg",
     "bild_pos": "50% 40%"
@@ -121,7 +121,7 @@
     "position": "unten",
     "label": "Fall 006",
     "badge": "AT",
-    "titel": "Gefährliche Elektrik nie gemeldet: Weniger Miete?",
+    "titel": "Gefährliche Elektrik nicht bemerkt: Geld zurück?",
     "unter": "Wie hat das Gericht entschieden?"
    }
   },
@@ -134,9 +134,9 @@
     "label": "Fall 006 · Der Fall",
     "badge": "AT",
     "sachverhalt": [
-     "Die Elektroinstallation einer Mietwohnung ist gefährlich. Die Mieter wissen nichts davon.",
-     "Die Vermieter hatten sogar einen positiven Elektrobefund. Der war aber fehlerhaft.",
-     "Erst ein Brand zeigt das Problem. Die Mieter wollen rückwirkend weniger Miete zahlen, obwohl sie den Mangel nie gemeldet haben."
+     "Die Stromleitungen einer Mietwohnung sind gefährlich. Die Mieter merken nichts.",
+     "Auch der Vermieter nicht: Eine Fachfirma hatte die Anlage fälschlich als sicher eingestuft.",
+     "Erst ein Brand zeigt den Mangel. Nun wollen die Mieter für die Zeit davor Geld zurück."
     ],
     "wortmarke": false
    }
@@ -149,15 +149,15 @@
     "thema": "dunkel",
     "label": "Fall 006",
     "badge": "AT",
-    "frage": "Dürfen sie die Miete mindern?",
+    "frage": "Bekommen die Mieter Geld zurück?",
     "optionen": [
      {
       "key": "A",
-      "text": "Ja, auch ohne Meldung."
+      "text": "Ja, auch ohne Meldung des Mangels."
      },
      {
       "key": "B",
-      "text": "Nein, sie hätten den Mangel melden müssen."
+      "text": "Nein, ohne Meldung gibt es nichts."
      }
     ],
     "wortmarke": false,
@@ -165,5 +165,5 @@
    }
   }
  ],
- "bildunterschrift": "Gefährliche Elektrik nie gemeldet – dürfen sie die Miete mindern?\nA: Ja, auch ohne Meldung.\nB: Nein, sie hätten den Mangel melden müssen.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nWohnst du zur Miete? Schick's deinen Mitbewohnern.\n\nFall 006: OGH, Beschluss vom 19.12.2023, 5 Ob 176/23b · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#mietrecht #wohnen #österreich #urteil"
+ "bildunterschrift": "Gefährliche Elektrik nicht bemerkt – bekommen die Mieter Geld zurück?\nA: Ja, auch ohne Meldung des Mangels.\nB: Nein, ohne Meldung gibt es nichts.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nWohnst du zur Miete? Schick's deinen Mitbewohnern.\n\nFall 006: OGH, 19.12.2023, 5 Ob 176/23b · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#mietrecht #wohnen #österreich #urteil"
 }
