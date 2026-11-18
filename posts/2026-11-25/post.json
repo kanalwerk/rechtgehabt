@@ -1,0 +1,169 @@
+{
+ "datum": "2026-11-25",
+ "thema": "Reisen: Dachzelt fliegt weg",
+ "land": "DE",
+ "quellen": [
+  {
+   "titel": "AG München, Pressemitteilung 27/2026",
+   "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/27.php",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../../img/2869101.jpg",
+     "bild_pos": "60% 50%",
+     "position": "unten",
+     "label": "Fall 013",
+     "badge": "DE",
+     "titel": "Dachzelt fliegt weg: Wer zahlt den Schaden?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 5.2,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "DE",
+     "sachverhalt": [
+      "Eine Frau mietet für den Urlaub ein Dachzelt. Der Vermieter montiert es auf ihren Bus.",
+      "Auf einer Autobahn in Frankreich löst sich das Zelt samt Trägern und fliegt davon.",
+      "Unterwegs hat sie nur ab und zu daran gerüttelt. Der Vermieter will Schadenersatz."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "DE",
+     "frage": "Muss sie für den Schaden zahlen?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, sie hätte es besser prüfen müssen."
+      },
+      {
+       "key": "B",
+       "text": "Nein, er hat es ja montiert."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Fährst du mit Dachzelt in die Ferien? Schick's weiter."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "DE",
+    "label": "Auflösung · Fall 013",
+    "ergebnis": {
+     "key": "A",
+     "text": "Richtig: Ja, rund 1810 Euro."
+    },
+    "headline": "Wer ein Dachzelt mietet, muss es prüfen",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Sie muss 1809,81 Euro zahlen. Den entgangenen Gewinn bekommt der Vermieter nicht."
+     ],
+     [
+      "Warum",
+      "Laut Mietbedingungen hätte sie die Schrauben nach 100 und dann alle 500 Kilometer prüfen müssen. Rütteln reicht nicht, schon gar nicht bei Sturm."
+     ],
+     [
+      "Gut zu wissen",
+      "Sie konnte nicht beweisen, dass sie den Schaden nicht verschuldet hat."
+     ]
+    ],
+    "quelle": "AG München, 27.02.2025, 223 C 16031/24 (rechtskräftig)",
+    "hinweis": "Gilt für Deutschland · Keine Rechtsberatung",
+    "bild": "../../img/2869101.jpg",
+    "bild_pos": "60% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/2869101.jpg",
+    "bild_pos": "60% 50%",
+    "position": "unten",
+    "label": "Fall 013",
+    "badge": "DE",
+    "titel": "Dachzelt fliegt weg: Wer zahlt den Schaden?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 013 · Der Fall",
+    "badge": "DE",
+    "sachverhalt": [
+     "Eine Frau mietet für den Urlaub ein Dachzelt. Der Vermieter montiert es auf ihren Bus.",
+     "Auf einer Autobahn in Frankreich löst sich das Zelt samt Trägern und fliegt davon.",
+     "Unterwegs hat sie nur ab und zu daran gerüttelt. Der Vermieter will Schadenersatz."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 013",
+    "badge": "DE",
+    "frage": "Muss sie für den Schaden zahlen?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, sie hätte es besser prüfen müssen."
+     },
+     {
+      "key": "B",
+      "text": "Nein, er hat es ja montiert."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Dachzelt fliegt weg – muss sie für den Schaden zahlen?\nA: Ja, sie hätte es besser prüfen müssen.\nB: Nein, er hat es ja montiert.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nFährst du mit Dachzelt in die Ferien? Schick's weiter.\n\nFall 013: AG München, 27.02.2025, 223 C 16031/24 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#reisen #camping #deutschland #urteil"
+}

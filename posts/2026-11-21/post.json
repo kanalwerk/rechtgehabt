@@ -1,0 +1,174 @@
+{
+ "datum": "2026-11-21",
+ "thema": "Arbeit: Kündigung nach 19 Jahren",
+ "land": "CH",
+ "quellen": [
+  {
+   "titel": "Bundesgericht 4A_617/2023",
+   "url": "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=08.10.2024_4A_617/2023",
+   "art": "primaer"
+  },
+  {
+   "titel": "Beobachter (Hinweis)",
+   "url": "https://www.beobachter.ch/arbeit-bildung/arbeitsrecht/missbrauchliche-kundigung-backerei-muss-15000-franken-zahlen-771378",
+   "art": "hinweis"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../../img/2436370.jpg",
+     "bild_pos": "50% 50%",
+     "position": "unten",
+     "label": "Fall 009",
+     "badge": "CH",
+     "titel": "Nach 19 Jahren gekündigt: Miss­bräuchlich?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 4.6,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "CH",
+     "sachverhalt": [
+      "Ein Bäcker arbeitet seit fast 19 Jahren im selben Betrieb. Er ist 62.",
+      "In der Corona-Zeit sinkt der Umsatz, eine Backstube wird geschlossen.",
+      "Im Mai 2020 bekommt er die Kündigung – ohne vorheriges Gespräch über andere Lösungen."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "CH",
+     "frage": "Ist die Kündigung missbräuchlich?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, er hätte mehr Rücksicht verdient."
+      },
+      {
+       "key": "B",
+       "text": "Nein, wirtschaftliche Gründe reichen."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Kennst du jemanden kurz vor der Pension? Schick's weiter."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "CH",
+    "label": "Auflösung · Fall 009",
+    "ergebnis": {
+     "key": "A",
+     "text": "Richtig: Ja, sie ist missbräuchlich."
+    },
+    "headline": "Ältere Angestellte verdienen mehr Rücksicht",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Bundesgericht bestätigt: Die Kündigung war missbräuchlich. Der Betrieb zahlt 15’000 Franken."
+     ],
+     [
+      "Warum",
+      "Bei älteren, langjährigen Angestellten muss der Arbeitgeber besonders Rücksicht nehmen, etwa die Kündigung vorher besprechen."
+     ],
+     [
+      "Gut zu wissen",
+      "Die Kündigung bleibt gültig. Missbrauch führt zu einer Entschädigung, nicht zur Weiterbeschäftigung."
+     ]
+    ],
+    "quelle": "Bundesgericht, 08.10.2024, 4A_617/2023",
+    "hinweis": "Gilt für die Schweiz · Keine Rechtsberatung",
+    "bild": "../../img/2436370.jpg",
+    "bild_pos": "50% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/2436370.jpg",
+    "bild_pos": "50% 50%",
+    "position": "unten",
+    "label": "Fall 009",
+    "badge": "CH",
+    "titel": "Nach 19 Jahren gekündigt: Miss­bräuchlich?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 009 · Der Fall",
+    "badge": "CH",
+    "sachverhalt": [
+     "Ein Bäcker arbeitet seit fast 19 Jahren im selben Betrieb. Er ist 62.",
+     "In der Corona-Zeit sinkt der Umsatz, eine Backstube wird geschlossen.",
+     "Im Mai 2020 bekommt er die Kündigung – ohne vorheriges Gespräch über andere Lösungen."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 009",
+    "badge": "CH",
+    "frage": "Ist die Kündigung missbräuchlich?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, er hätte mehr Rücksicht verdient."
+     },
+     {
+      "key": "B",
+      "text": "Nein, wirtschaftliche Gründe reichen."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Nach 19 Jahren gekündigt – ist die Kündigung missbräuchlich?\nA: Ja, er hätte mehr Rücksicht verdient.\nB: Nein, wirtschaftliche Gründe reichen.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nKennst du jemanden kurz vor der Pension? Schick's weiter.\n\nFall 009: Bundesgericht, 08.10.2024, 4A_617/2023 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#arbeitsrecht #kündigung #schweiz #urteil"
+}

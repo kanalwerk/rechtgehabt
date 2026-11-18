@@ -1,0 +1,169 @@
+{
+ "datum": "2026-11-23",
+ "thema": "Kurioses: «Not Milk» auf Haferdrink",
+ "land": "CH",
+ "quellen": [
+  {
+   "titel": "Medienmitteilung des Bundesgerichts 2C_47/2025",
+   "url": "https://www.bger.ch/files/live/sites/tfl/files/pdf/de/2c_0047_2025_yyyy_mm_dd_T_d_12_00_11.pdf",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../../img/5013876.jpg",
+     "bild_pos": "50% 45%",
+     "position": "unten",
+     "label": "Fall 012",
+     "badge": "CH",
+     "titel": "«Not M*lk» auf dem Haferdrink: Erlaubt?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 5.2,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "CH",
+     "sachverhalt": [
+      "Auf einem Haferdrink steht gross «This is not M*lk». Statt des i ist ein weisser Tropfen gedruckt.",
+      "Das Zürcher Kantonslabor verbietet den Verkauf mit dieser Aufschrift.",
+      "Die Herstellerin wehrt sich bis vor Bundesgericht: Da stehe doch, es sei keine Milch."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "CH",
+     "frage": "Darf die Aufschrift bleiben?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, da steht ja «not»."
+      },
+      {
+       "key": "B",
+       "text": "Nein, «Milch» ist für Veganes tabu."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Trinkst du Haferdrink? Schick's weiter."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "CH",
+    "label": "Auflösung · Fall 012",
+    "ergebnis": {
+     "key": "B",
+     "text": "Richtig: Nein, sie muss weg."
+    },
+    "headline": "Milch darf nur heissen, was Milch ist",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Bundesgericht weist die Beschwerde der Herstellerin ab. Das Verbot bleibt."
+     ],
+     [
+      "Warum",
+      "Das Wort Milch darf ein veganes Produkt nicht bezeichnen – auch nicht verneint oder mit verändertem Schriftbild."
+     ],
+     [
+      "Gut zu wissen",
+      "Auf der Rückseite hiess das Produkt korrekt «Haferdrink». Das reichte nicht."
+     ]
+    ],
+    "quelle": "Bundesgericht, 27.03.2026, 2C_47/2025",
+    "hinweis": "Gilt für die Schweiz · Keine Rechtsberatung",
+    "bild": "../../img/5013876.jpg",
+    "bild_pos": "50% 45%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/5013876.jpg",
+    "bild_pos": "50% 45%",
+    "position": "unten",
+    "label": "Fall 012",
+    "badge": "CH",
+    "titel": "«Not M*lk» auf dem Haferdrink: Erlaubt?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 012 · Der Fall",
+    "badge": "CH",
+    "sachverhalt": [
+     "Auf einem Haferdrink steht gross «This is not M*lk». Statt des i ist ein weisser Tropfen gedruckt.",
+     "Das Zürcher Kantonslabor verbietet den Verkauf mit dieser Aufschrift.",
+     "Die Herstellerin wehrt sich bis vor Bundesgericht: Da stehe doch, es sei keine Milch."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 012",
+    "badge": "CH",
+    "frage": "Darf die Aufschrift bleiben?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, da steht ja «not»."
+     },
+     {
+      "key": "B",
+      "text": "Nein, «Milch» ist für Veganes tabu."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "«Not M*lk» auf dem Haferdrink – darf die Aufschrift bleiben?\nA: Ja, da steht ja «not».\nB: Nein, «Milch» ist für Veganes tabu.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nTrinkst du Haferdrink? Schick's weiter.\n\nFall 012: Bundesgericht, 27.03.2026, 2C_47/2025 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#lebensmittel #vegan #schweiz #urteil"
+}

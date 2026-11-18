@@ -1,0 +1,169 @@
+{
+ "datum": "2026-11-19",
+ "thema": "Auto: Pannenhilfe kommt nicht",
+ "land": "DE",
+ "quellen": [
+  {
+   "titel": "AG München, Pressemitteilung 30/2026",
+   "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/30.php",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../../img/6660469.jpg",
+     "bild_pos": "50% 50%",
+     "position": "unten",
+     "label": "Fall 010",
+     "badge": "DE",
+     "titel": "Pannenhilfe kommt nicht: Wer zahlt?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 5.2,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "DE",
+     "sachverhalt": [
+      "Eine Frau hat einen Platten und stellt ihr Auto auf dem Gehweg ab.",
+      "Ihr Automobilclub sagt zweimal Hilfe zu, kommt aber nicht. Am vierten Tag hat die Stadt das Auto schon abschleppen lassen.",
+      "Der Club zahlt 300 Euro. Sie will auch den Rest: 277 Euro."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "DE",
+     "frage": "Muss der Club den Rest zahlen?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, er hat sie im Stich gelassen."
+      },
+      {
+       "key": "B",
+       "text": "Nein, sie hätte früher handeln müssen."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Kennst du jemanden mit Auto? Schick's weiter."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "DE",
+    "label": "Auflösung · Fall 010",
+    "ergebnis": {
+     "key": "B",
+     "text": "Richtig: Nein, kein Geld mehr."
+    },
+    "headline": "Wer zu lange wartet, zahlt mit",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Amtsgericht München weist die Klage ab. Mehr als die 300 Euro bekommt die Frau nicht."
+     ],
+     [
+      "Warum",
+      "Sie hat nicht rechtzeitig einen anderen Abschleppdienst beauftragt. Damit hat sie den Schaden mitverursacht."
+     ],
+     [
+      "Die Rechnung",
+      "327 Euro für das Abschleppen durch die Stadt, 250 Euro für ihren eigenen Dienst, der umsonst kam."
+     ]
+    ],
+    "quelle": "AG München, 21.06.2026, 191 C 1503/26 (rechtskräftig)",
+    "hinweis": "Gilt für Deutschland · Keine Rechtsberatung",
+    "bild": "../../img/6660469.jpg",
+    "bild_pos": "50% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/6660469.jpg",
+    "bild_pos": "50% 50%",
+    "position": "unten",
+    "label": "Fall 010",
+    "badge": "DE",
+    "titel": "Pannenhilfe kommt nicht: Wer zahlt?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 010 · Der Fall",
+    "badge": "DE",
+    "sachverhalt": [
+     "Eine Frau hat einen Platten und stellt ihr Auto auf dem Gehweg ab.",
+     "Ihr Automobilclub sagt zweimal Hilfe zu, kommt aber nicht. Am vierten Tag hat die Stadt das Auto schon abschleppen lassen.",
+     "Der Club zahlt 300 Euro. Sie will auch den Rest: 277 Euro."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 010",
+    "badge": "DE",
+    "frage": "Muss der Club den Rest zahlen?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, er hat sie im Stich gelassen."
+     },
+     {
+      "key": "B",
+      "text": "Nein, sie hätte früher handeln müssen."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Pannenhilfe kommt nicht – muss der Club den Rest zahlen?\nA: Ja, er hat sie im Stich gelassen.\nB: Nein, sie hätte früher handeln müssen.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nKennst du jemanden mit Auto? Schick's weiter.\n\nFall 010: AG München, 21.06.2026, 191 C 1503/26 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#panne #auto #deutschland #urteil"
+}

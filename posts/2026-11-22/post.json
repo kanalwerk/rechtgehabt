@@ -1,0 +1,169 @@
+{
+ "datum": "2026-11-22",
+ "thema": "Miete: Untermiete mit Gewinn",
+ "land": "DE",
+ "quellen": [
+  {
+   "titel": "BGH-Pressemitteilung 24/2026",
+   "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026024.html",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../../img/3108037.jpg",
+     "bild_pos": "50% 50%",
+     "position": "unten",
+     "label": "Fall 007",
+     "badge": "DE",
+     "titel": "Wohnung teurer unter­vermietet: Erlaubt?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 4.6,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "DE",
+     "sachverhalt": [
+      "Ein Mieter in Berlin zahlt 460 Euro Kaltmiete für zwei Zimmer.",
+      "Während er im Ausland ist, vermietet er die Wohnung ohne Erlaubnis an zwei Untermieter – für 962 Euro kalt.",
+      "Die Vermieterin mahnt ihn ab und kündigt schliesslich."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "DE",
+     "frage": "Darf die Vermieterin kündigen?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, Gewinn mit Untermiete ist tabu."
+      },
+      {
+       "key": "B",
+       "text": "Nein, Untermiete ist sein gutes Recht."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Denkst du an Untermiete? Schick's weiter."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "DE",
+    "label": "Auflösung · Fall 007",
+    "ergebnis": {
+     "key": "A",
+     "text": "Richtig: Ja, die Kündigung gilt."
+    },
+    "headline": "Untermiete ja – aber nicht mit Gewinn",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Der Bundesgerichtshof bestätigt die Kündigung. Der Mieter muss die Wohnung räumen."
+     ],
+     [
+      "Warum",
+      "Untermiete soll Mietern die Wohnung erhalten, wenn sich ihr Leben ändert. Sie ist nicht dazu da, Geld zu verdienen."
+     ],
+     [
+      "Gut zu wissen",
+      "Die eigenen Mietkosten mit einer erlaubten Untermiete zu senken, bleibt zulässig."
+     ]
+    ],
+    "quelle": "BGH, 28.01.2026, VIII ZR 228/23",
+    "hinweis": "Gilt für Deutschland · Keine Rechtsberatung",
+    "bild": "../../img/3108037.jpg",
+    "bild_pos": "50% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/3108037.jpg",
+    "bild_pos": "50% 50%",
+    "position": "unten",
+    "label": "Fall 007",
+    "badge": "DE",
+    "titel": "Wohnung teurer unter­vermietet: Erlaubt?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 007 · Der Fall",
+    "badge": "DE",
+    "sachverhalt": [
+     "Ein Mieter in Berlin zahlt 460 Euro Kaltmiete für zwei Zimmer.",
+     "Während er im Ausland ist, vermietet er die Wohnung ohne Erlaubnis an zwei Untermieter – für 962 Euro kalt.",
+     "Die Vermieterin mahnt ihn ab und kündigt schliesslich."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 007",
+    "badge": "DE",
+    "frage": "Darf die Vermieterin kündigen?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, Gewinn mit Untermiete ist tabu."
+     },
+     {
+      "key": "B",
+      "text": "Nein, Untermiete ist sein gutes Recht."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Wohnung teurer untervermietet – darf die Vermieterin kündigen?\nA: Ja, Gewinn mit Untermiete ist tabu.\nB: Nein, Untermiete ist sein gutes Recht.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nDenkst du an Untermiete? Schick's weiter.\n\nFall 007: BGH, 28.01.2026, VIII ZR 228/23 · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#mietrecht #untermiete #deutschland #urteil"
+}

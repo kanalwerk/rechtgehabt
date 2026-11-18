@@ -1,0 +1,169 @@
+{
+ "datum": "2026-11-20",
+ "thema": "Internet: Like unter Beleidigung",
+ "land": "AT",
+ "quellen": [
+  {
+   "titel": "OGH-Kurzfassung 6 Ob 26/26f",
+   "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/keine-ehrenbeleidigung-durch-das-liken-des-posting-eines-dritten-in-einem-sozialen-medium/",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 2.4,
+    "folie": {
+     "layout": "titel",
+     "bild": "../../img/1804599.jpg",
+     "bild_pos": "50% 50%",
+     "position": "unten",
+     "label": "Fall 008",
+     "badge": "AT",
+     "titel": "Like unter Beleidigung: Haftet man mit?",
+     "unter": "Wie hat das Gericht entschieden?"
+    }
+   },
+   {
+    "dauer": 4.6,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Der Fall",
+     "badge": "AT",
+     "sachverhalt": [
+      "Ein Mann postet auf Facebook ein Foto von einer Familienfeier.",
+      "Jemand kommentiert es mit einer Beleidigung gegen ihn. Eine Frau setzt ein Like unter den Kommentar.",
+      "Der Mann will ihr gerichtlich verbieten lassen, solche Kommentare zu liken."
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "frage",
+     "thema": "dunkel",
+     "label": "Und das Gericht?",
+     "badge": "AT",
+     "frage": "Beleidigt ihn das Like auch?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, wer likt, stimmt allem zu."
+      },
+      {
+       "key": "B",
+       "text": "Nein, nicht automatisch."
+      }
+     ],
+     "wortmarke": false
+    }
+   },
+   {
+    "dauer": 3.4,
+    "folie": {
+     "layout": "aufruf",
+     "thema": "dunkel",
+     "frage": "Was meinst du?",
+     "vor": "Schreib",
+     "stichwort": "A / B",
+     "nach": "per DM – die Auflösung kommt sofort.",
+     "teilen": "Likest du schnell mal was? Schick's weiter."
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "AT",
+    "label": "Auflösung · Fall 008",
+    "ergebnis": {
+     "key": "B",
+     "text": "Richtig: Nein, nicht automatisch."
+    },
+    "headline": "Ein Like ist nicht automatisch Zustimmung",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Der Oberste Gerichtshof lehnt das verlangte Verbot im Eilverfahren ab."
+     ],
+     [
+      "Warum",
+      "Was ein Like bedeutet, hängt vom Zusammenhang ab. Hier drückt es nur eine unbestimmte Ablehnung aus – keine Ehrenbeleidigung."
+     ],
+     [
+      "Gut zu wissen",
+      "Massgebend ist, wie Durchschnittsleser das Like verstehen – nicht, was die Person damit meinte."
+     ]
+    ],
+    "quelle": "OGH, 26.05.2026, 6 Ob 26/26f",
+    "hinweis": "Gilt für Österreich · Keine Rechtsberatung",
+    "bild": "../../img/1804599.jpg",
+    "bild_pos": "50% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/1804599.jpg",
+    "bild_pos": "50% 50%",
+    "position": "unten",
+    "label": "Fall 008",
+    "badge": "AT",
+    "titel": "Like unter Beleidigung: Haftet man mit?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 008 · Der Fall",
+    "badge": "AT",
+    "sachverhalt": [
+     "Ein Mann postet auf Facebook ein Foto von einer Familienfeier.",
+     "Jemand kommentiert es mit einer Beleidigung gegen ihn. Eine Frau setzt ein Like unter den Kommentar.",
+     "Der Mann will ihr gerichtlich verbieten lassen, solche Kommentare zu liken."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 008",
+    "badge": "AT",
+    "frage": "Beleidigt ihn das Like auch?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, wer likt, stimmt allem zu."
+     },
+     {
+      "key": "B",
+      "text": "Nein, nicht automatisch."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Like unter Beleidigung – beleidigt ihn das Like auch?\nA: Ja, wer likt, stimmt allem zu.\nB: Nein, nicht automatisch.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nLikest du schnell mal was? Schick's weiter.\n\nFall 008: OGH, 26.05.2026, 6 Ob 26/26f · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#socialmedia #facebook #österreich #urteil"
+}

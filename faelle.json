@@ -1,5 +1,5 @@
 {
- "naechste_nr": 7,
+ "naechste_nr": 14,
  "faelle": [
   {
    "nr": "001",
@@ -457,6 +457,515 @@
    ],
    "verwendet_am": null,
    "geplant_fuer": "2026-11-18"
+  },
+  {
+   "nr": "007",
+   "status": "geplant",
+   "land": "DE",
+   "bereich": "Wohnen und Miete",
+   "thema": "Miete: Untermiete mit Gewinn",
+   "gericht": "BGH",
+   "datum": "2026-01-28",
+   "aktenzeichen": "VIII ZR 228/23",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "BGH-Pressemitteilung 24/2026",
+     "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026024.html",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 3108037,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Wohnung teurer unter­vermietet: Erlaubt?",
+     "sachverhalt": [
+      "Ein Mieter in Berlin zahlt 460 Euro Kaltmiete für zwei Zimmer.",
+      "Während er im Ausland ist, vermietet er die Wohnung ohne Erlaubnis an zwei Untermieter – für 962 Euro kalt.",
+      "Die Vermieterin mahnt ihn ab und kündigt schliesslich."
+     ],
+     "frage": "Darf die Vermieterin kündigen?",
+     "optionen": {
+      "A": "Ja, Gewinn mit Untermiete ist tabu.",
+      "B": "Nein, Untermiete ist sein gutes Recht."
+     },
+     "ergebnis": "Richtig: Ja, die Kündigung gilt.",
+     "headline": "Untermiete ja – aber nicht mit Gewinn",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Der Bundesgerichtshof bestätigt die Kündigung. Der Mieter muss die Wohnung räumen."
+      ],
+      [
+       "Warum",
+       "Untermiete soll Mietern die Wohnung erhalten, wenn sich ihr Leben ändert. Sie ist nicht dazu da, Geld zu verdienen."
+      ],
+      [
+       "Gut zu wissen",
+       "Die eigenen Mietkosten mit einer erlaubten Untermiete zu senken, bleibt zulässig."
+      ]
+     ],
+     "quelle": "BGH, 28.01.2026, VIII ZR 228/23",
+     "teilen": "Denkst du an Untermiete? Schick's weiter.",
+     "hashtags": [
+      "#mietrecht",
+      "#untermiete",
+      "#deutschland",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-18",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-22"
+  },
+  {
+   "nr": "008",
+   "status": "geplant",
+   "land": "AT",
+   "bereich": "Internet und Handy",
+   "thema": "Internet: Like unter Beleidigung",
+   "gericht": "OGH",
+   "datum": "2026-05-26",
+   "aktenzeichen": "6 Ob 26/26f",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "OGH-Kurzfassung 6 Ob 26/26f",
+     "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/keine-ehrenbeleidigung-durch-das-liken-des-posting-eines-dritten-in-einem-sozialen-medium/",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 1804599,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Like unter Beleidigung: Haftet man mit?",
+     "sachverhalt": [
+      "Ein Mann postet auf Facebook ein Foto von einer Familienfeier.",
+      "Jemand kommentiert es mit einer Beleidigung gegen ihn. Eine Frau setzt ein Like unter den Kommentar.",
+      "Der Mann will ihr gerichtlich verbieten lassen, solche Kommentare zu liken."
+     ],
+     "frage": "Beleidigt ihn das Like auch?",
+     "optionen": {
+      "A": "Ja, wer likt, stimmt allem zu.",
+      "B": "Nein, nicht automatisch."
+     },
+     "ergebnis": "Richtig: Nein, nicht automatisch.",
+     "headline": "Ein Like ist nicht automatisch Zustimmung",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Der Oberste Gerichtshof lehnt das verlangte Verbot im Eilverfahren ab."
+      ],
+      [
+       "Warum",
+       "Was ein Like bedeutet, hängt vom Zusammenhang ab. Hier drückt es nur eine unbestimmte Ablehnung aus – keine Ehrenbeleidigung."
+      ],
+      [
+       "Gut zu wissen",
+       "Massgebend ist, wie Durchschnittsleser das Like verstehen – nicht, was die Person damit meinte."
+      ]
+     ],
+     "quelle": "OGH, 26.05.2026, 6 Ob 26/26f",
+     "teilen": "Likest du schnell mal was? Schick's weiter.",
+     "hashtags": [
+      "#socialmedia",
+      "#facebook",
+      "#österreich",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-18",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-20"
+  },
+  {
+   "nr": "009",
+   "status": "geplant",
+   "land": "CH",
+   "bereich": "Arbeit",
+   "thema": "Arbeit: Kündigung nach 19 Jahren",
+   "gericht": "Bundesgericht",
+   "datum": "2024-10-08",
+   "aktenzeichen": "4A_617/2023",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "Bundesgericht 4A_617/2023",
+     "url": "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=08.10.2024_4A_617/2023",
+     "art": "primaer"
+    },
+    {
+     "titel": "Beobachter (Hinweis)",
+     "url": "https://www.beobachter.ch/arbeit-bildung/arbeitsrecht/missbrauchliche-kundigung-backerei-muss-15000-franken-zahlen-771378",
+     "art": "hinweis"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 2436370,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Nach 19 Jahren gekündigt: Miss­bräuchlich?",
+     "sachverhalt": [
+      "Ein Bäcker arbeitet seit fast 19 Jahren im selben Betrieb. Er ist 62.",
+      "In der Corona-Zeit sinkt der Umsatz, eine Backstube wird geschlossen.",
+      "Im Mai 2020 bekommt er die Kündigung – ohne vorheriges Gespräch über andere Lösungen."
+     ],
+     "frage": "Ist die Kündigung missbräuchlich?",
+     "optionen": {
+      "A": "Ja, er hätte mehr Rücksicht verdient.",
+      "B": "Nein, wirtschaftliche Gründe reichen."
+     },
+     "ergebnis": "Richtig: Ja, sie ist missbräuchlich.",
+     "headline": "Ältere Angestellte verdienen mehr Rücksicht",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Bundesgericht bestätigt: Die Kündigung war missbräuchlich. Der Betrieb zahlt 15’000 Franken."
+      ],
+      [
+       "Warum",
+       "Bei älteren, langjährigen Angestellten muss der Arbeitgeber besonders Rücksicht nehmen, etwa die Kündigung vorher besprechen."
+      ],
+      [
+       "Gut zu wissen",
+       "Die Kündigung bleibt gültig. Missbrauch führt zu einer Entschädigung, nicht zur Weiterbeschäftigung."
+      ]
+     ],
+     "quelle": "Bundesgericht, 08.10.2024, 4A_617/2023",
+     "teilen": "Kennst du jemanden kurz vor der Pension? Schick's weiter.",
+     "hashtags": [
+      "#arbeitsrecht",
+      "#kündigung",
+      "#schweiz",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-18",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-21"
+  },
+  {
+   "nr": "010",
+   "status": "geplant",
+   "land": "DE",
+   "bereich": "Auto und Verkehr",
+   "thema": "Auto: Pannenhilfe kommt nicht",
+   "gericht": "AG München",
+   "datum": "2026-06-21",
+   "aktenzeichen": "191 C 1503/26",
+   "rechtskraft": "rechtskräftig",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "AG München, Pressemitteilung 30/2026",
+     "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/30.php",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 6660469,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Pannenhilfe kommt nicht: Wer zahlt?",
+     "sachverhalt": [
+      "Eine Frau hat einen Platten und stellt ihr Auto auf dem Gehweg ab.",
+      "Ihr Automobilclub sagt zweimal Hilfe zu, kommt aber nicht. Am vierten Tag hat die Stadt das Auto schon abschleppen lassen.",
+      "Der Club zahlt 300 Euro. Sie will auch den Rest: 277 Euro."
+     ],
+     "frage": "Muss der Club den Rest zahlen?",
+     "optionen": {
+      "A": "Ja, er hat sie im Stich gelassen.",
+      "B": "Nein, sie hätte früher handeln müssen."
+     },
+     "ergebnis": "Richtig: Nein, kein Geld mehr.",
+     "headline": "Wer zu lange wartet, zahlt mit",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Amtsgericht München weist die Klage ab. Mehr als die 300 Euro bekommt die Frau nicht."
+      ],
+      [
+       "Warum",
+       "Sie hat nicht rechtzeitig einen anderen Abschleppdienst beauftragt. Damit hat sie den Schaden mitverursacht."
+      ],
+      [
+       "Die Rechnung",
+       "327 Euro für das Abschleppen durch die Stadt, 250 Euro für ihren eigenen Dienst, der umsonst kam."
+      ]
+     ],
+     "quelle": "AG München, 21.06.2026, 191 C 1503/26 (rechtskräftig)",
+     "teilen": "Kennst du jemanden mit Auto? Schick's weiter.",
+     "hashtags": [
+      "#panne",
+      "#auto",
+      "#deutschland",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-18",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-19"
+  },
+  {
+   "nr": "011",
+   "status": "geplant",
+   "land": "AT",
+   "bereich": "Einkaufen und Verträge",
+   "thema": "Verträge: Kostenvoranschlag überschritten",
+   "gericht": "OGH",
+   "datum": "2026-09-29",
+   "aktenzeichen": "6 Ob 90/26t",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "OGH-Kurzfassung 6 Ob 90/26t",
+     "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/keine-betraechtliche-ueberschreitung-eines-kostenvoranschlags/",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 670278,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Hausbau 8 Prozent teurer: Muss man zahlen?",
+     "sachverhalt": [
+      "Eine Baufirma bietet den Rohbau eines Einfamilienhauses für rund 197’550 Euro an.",
+      "Am Ende kostet der Bau rund 213’350 Euro – etwa 8 Prozent mehr.",
+      "Die Bauherren zahlen nicht alles: Die Firma habe sie nicht vor den Mehrkosten gewarnt."
+     ],
+     "frage": "Müssen sie die Mehrkosten zahlen?",
+     "optionen": {
+      "A": "Ja, 8 Prozent sind nicht beträchtlich.",
+      "B": "Nein, ohne Warnung gilt das Angebot."
+     },
+     "ergebnis": "Richtig: Ja, sie müssen zahlen.",
+     "headline": "Ein Plus von 8 Prozent ist nicht beträchtlich",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Der Oberste Gerichtshof gibt der Baufirma recht. Das Urteil der ersten Instanz gilt wieder."
+      ],
+      [
+       "Warum",
+       "Kleine Überschreitungen eines unverbindlichen Kostenvoranschlags muss man hinnehmen. Warnen muss die Firma erst bei beträchtlichen."
+      ],
+      [
+       "Gut zu wissen",
+       "Frühere Urteile sahen 14 und 30 Prozent als beträchtlich an. Massgebend ist die Endsumme des Angebots."
+      ]
+     ],
+     "quelle": "OGH, 29.09.2026, 6 Ob 90/26t",
+     "teilen": "Planst du einen Umbau? Schick's weiter.",
+     "hashtags": [
+      "#hausbau",
+      "#kostenvoranschlag",
+      "#österreich",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-18",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-24"
+  },
+  {
+   "nr": "012",
+   "status": "geplant",
+   "land": "CH",
+   "bereich": "Kurioses",
+   "thema": "Kurioses: «Not Milk» auf Haferdrink",
+   "gericht": "Bundesgericht",
+   "datum": "2026-03-27",
+   "aktenzeichen": "2C_47/2025",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "Medienmitteilung des Bundesgerichts 2C_47/2025",
+     "url": "https://www.bger.ch/files/live/sites/tfl/files/pdf/de/2c_0047_2025_yyyy_mm_dd_T_d_12_00_11.pdf",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 5013876,
+    "pos": "50% 45%"
+   },
+   "texte": {
+    "de": {
+     "titel": "«Not M*lk» auf dem Haferdrink: Erlaubt?",
+     "sachverhalt": [
+      "Auf einem Haferdrink steht gross «This is not M*lk». Statt des i ist ein weisser Tropfen gedruckt.",
+      "Das Zürcher Kantonslabor verbietet den Verkauf mit dieser Aufschrift.",
+      "Die Herstellerin wehrt sich bis vor Bundesgericht: Da stehe doch, es sei keine Milch."
+     ],
+     "frage": "Darf die Aufschrift bleiben?",
+     "optionen": {
+      "A": "Ja, da steht ja «not».",
+      "B": "Nein, «Milch» ist für Veganes tabu."
+     },
+     "ergebnis": "Richtig: Nein, sie muss weg.",
+     "headline": "Milch darf nur heissen, was Milch ist",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Bundesgericht weist die Beschwerde der Herstellerin ab. Das Verbot bleibt."
+      ],
+      [
+       "Warum",
+       "Das Wort Milch darf ein veganes Produkt nicht bezeichnen – auch nicht verneint oder mit verändertem Schriftbild."
+      ],
+      [
+       "Gut zu wissen",
+       "Auf der Rückseite hiess das Produkt korrekt «Haferdrink». Das reichte nicht."
+      ]
+     ],
+     "quelle": "Bundesgericht, 27.03.2026, 2C_47/2025",
+     "teilen": "Trinkst du Haferdrink? Schick's weiter.",
+     "hashtags": [
+      "#lebensmittel",
+      "#vegan",
+      "#schweiz",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-18",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-23"
+  },
+  {
+   "nr": "013",
+   "status": "geplant",
+   "land": "DE",
+   "bereich": "Reisen und Freizeit",
+   "thema": "Reisen: Dachzelt fliegt weg",
+   "gericht": "AG München",
+   "datum": "2025-02-27",
+   "aktenzeichen": "223 C 16031/24",
+   "rechtskraft": "rechtskräftig",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "AG München, Pressemitteilung 27/2026",
+     "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/27.php",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 2869101,
+    "pos": "60% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Dachzelt fliegt weg: Wer zahlt den Schaden?",
+     "sachverhalt": [
+      "Eine Frau mietet für den Urlaub ein Dachzelt. Der Vermieter montiert es auf ihren Bus.",
+      "Auf einer Autobahn in Frankreich löst sich das Zelt samt Trägern und fliegt davon.",
+      "Unterwegs hat sie nur ab und zu daran gerüttelt. Der Vermieter will Schadenersatz."
+     ],
+     "frage": "Muss sie für den Schaden zahlen?",
+     "optionen": {
+      "A": "Ja, sie hätte es besser prüfen müssen.",
+      "B": "Nein, er hat es ja montiert."
+     },
+     "ergebnis": "Richtig: Ja, rund 1810 Euro.",
+     "headline": "Wer ein Dachzelt mietet, muss es prüfen",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Sie muss 1809,81 Euro zahlen. Den entgangenen Gewinn bekommt der Vermieter nicht."
+      ],
+      [
+       "Warum",
+       "Laut Mietbedingungen hätte sie die Schrauben nach 100 und dann alle 500 Kilometer prüfen müssen. Rütteln reicht nicht, schon gar nicht bei Sturm."
+      ],
+      [
+       "Gut zu wissen",
+       "Sie konnte nicht beweisen, dass sie den Schaden nicht verschuldet hat."
+      ]
+     ],
+     "quelle": "AG München, 27.02.2025, 223 C 16031/24 (rechtskräftig)",
+     "teilen": "Fährst du mit Dachzelt in die Ferien? Schick's weiter.",
+     "hashtags": [
+      "#reisen",
+      "#camping",
+      "#deutschland",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-18",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-25"
   }
  ]
 }
