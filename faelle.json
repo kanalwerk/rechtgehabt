@@ -383,7 +383,7 @@
   },
   {
    "nr": "006",
-   "status": "geplant",
+   "status": "verwendet",
    "land": "AT",
    "bereich": "Wohnen und Miete",
    "thema": "Miete: unbekannter Mangel",
@@ -455,7 +455,7 @@
      "lauf": "zweite Prüfung vor Beitrag (Firecrawl, OGH-Kurzfassung)"
     }
    ],
-   "verwendet_am": null,
+   "verwendet_am": "2026-11-18",
    "geplant_fuer": "2026-11-18"
   },
   {

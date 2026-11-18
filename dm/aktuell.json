@@ -5,19 +5,19 @@
   "messages": [
    {
     "type": "text",
-    "text": "Deine Antwort gilt für Fall 005 «Bewohner auf dem Besucherparkplatz»."
+    "text": "Deine Antwort gilt für Fall 006 «Gefährliche Elektrik nicht bemerkt»."
    }
   ],
   "actions": [
    {
     "action": "set_field_value",
     "field_name": "fall",
-    "value": "005"
+    "value": "006"
    },
    {
     "action": "set_field_value",
     "field_name": "fall_titel",
-    "value": "Bewohner auf dem Besucherparkplatz"
+    "value": "Gefährliche Elektrik nicht bemerkt"
    }
   ],
   "quick_replies": []
