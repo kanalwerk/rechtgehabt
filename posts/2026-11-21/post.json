@@ -20,7 +20,7 @@
   "schleife": true,
   "szenen": [
    {
-    "dauer": 3.0,
+    "dauer": 4.0,
     "folie": {
      "layout": "frage",
      "bild": "../../img/2436370.jpg",
@@ -44,7 +44,7 @@
     }
    },
    {
-    "dauer": 4.4,
+    "dauer": 6.0,
     "folie": {
      "layout": "frage",
      "thema": "hell",
@@ -65,19 +65,8 @@
        "text": "Nein, wirtschaftliche Gründe reichen."
       }
      ],
-     "wortmarke": false
-    }
-   },
-   {
-    "dauer": 2.6,
-    "folie": {
-     "layout": "aufruf",
-     "thema": "dunkel",
-     "frage": "Was meinst du?",
-     "vor": "Kommentiere",
-     "stichwort": "A / B",
-     "nach": "Die Auflösung kommt sofort per DM.",
-     "teilen": "Kennst du jemanden kurz vor der Pension? Schick's weiter."
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
     }
    }
   ]
@@ -136,7 +125,7 @@
    "folie": {
     "layout": "frage",
     "thema": "hell",
-    "label": "Fall 009 · Der Fall",
+    "label": "Fall 009",
     "badge": "CH",
     "sachverhalt": [
      "Ein Bäcker arbeitet seit fast 19 Jahren im selben Betrieb. Er ist 62.",

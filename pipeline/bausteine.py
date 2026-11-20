@@ -100,6 +100,8 @@ body{{font-family:'{tx}';-webkit-font-smoothing:antialiased;font-kerning:normal}
 .label{{font-weight:700;font-size:{px(28)}px;letter-spacing:.16em;text-transform:uppercase;color:var(--ged)}}
 .badge{{margin-left:auto;font-weight:700;font-size:{px(26)}px;letter-spacing:.12em;text-transform:uppercase;
   border:3px solid currentColor;border-radius:999px;padding:{px(6)}px {px(18)}px;color:var(--tx)}}
+.laender{{margin-left:auto;display:flex;gap:{px(10)}px}} .laender .badge{{margin-left:0;opacity:.5}}
+.laender .badge.an{{opacity:1;background:{f['akzent']};border-color:{f['akzent']};color:#fff}}
 .titel{{font-size:{px(128)}px;line-height:.98;letter-spacing:-.035em}}
 .hl{{font-size:{px(82)}px}}
 .unter{{font-size:{px(46)}px;font-weight:600;line-height:1.2;letter-spacing:-.01em}}
@@ -172,7 +174,12 @@ def kopf(f, d, symbol_std=None):
     if f.get("label"):
         teile.append(f'<span class="label">{esc(f["label"])}</span>')
     if f.get("badge"):
-        teile.append(f'<span class="badge">{esc(f["badge"])}</span>')
+        alle = d.get("laender")
+        if alle and f["badge"] in alle:   # seit 20.11.2026: alle Länder, aktives hervorgehoben
+            b = "".join(f'<span class="badge{" an" if l == f["badge"] else ""}">{esc(l)}</span>' for l in alle)
+            teile.append(f'<span class="laender">{b}</span>')
+        else:
+            teile.append(f'<span class="badge">{esc(f["badge"])}</span>')
     return f'<div class="kopf">{"".join(teile)}</div>' if teile else ""
 
 

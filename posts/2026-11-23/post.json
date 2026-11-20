@@ -15,7 +15,7 @@
   "schleife": true,
   "szenen": [
    {
-    "dauer": 3.0,
+    "dauer": 4.0,
     "folie": {
      "layout": "frage",
      "bild": "../../img/5013876.jpg",
@@ -39,7 +39,7 @@
     }
    },
    {
-    "dauer": 5.0,
+    "dauer": 6.6,
     "folie": {
      "layout": "frage",
      "thema": "hell",
@@ -60,19 +60,8 @@
        "text": "Nein, «Milch» ist für Veganes tabu."
       }
      ],
-     "wortmarke": false
-    }
-   },
-   {
-    "dauer": 2.6,
-    "folie": {
-     "layout": "aufruf",
-     "thema": "dunkel",
-     "frage": "Was meinst du?",
-     "vor": "Kommentiere",
-     "stichwort": "A / B",
-     "nach": "Die Auflösung kommt sofort per DM.",
-     "teilen": "Trinkst du Haferdrink? Schick's weiter."
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
     }
    }
   ]
@@ -131,7 +120,7 @@
    "folie": {
     "layout": "frage",
     "thema": "hell",
-    "label": "Fall 012 · Der Fall",
+    "label": "Fall 012",
     "badge": "CH",
     "sachverhalt": [
      "Auf einem Haferdrink steht gross «This is not M*lk». Statt des i ist ein weisser Tropfen gedruckt.",

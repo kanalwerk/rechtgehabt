@@ -52,15 +52,12 @@ def post(f, datum):
                 "aufruf": "Kommentiere A oder B"}
     sv_kurz = {"layout": "frage", "thema": "hell", "label": f"Fall {nr}", "badge": land,
                "sachverhalt": t["sachverhalt"], "optionen": opt, "wortmarke": False}
-    sv_dauer = 5.0 if sum(len(s) for s in t["sachverhalt"]) > 240 else 4.4
+    sv_dauer = 6.6 if sum(len(s) for s in t["sachverhalt"]) > 240 else 6.0
     return {
         "datum": datum, "thema": f["thema"], "land": land, "quellen": f["quellen"],
         "reel": {"datei": "reel.mp4", "cover": "cover.jpg", "schleife": True, "szenen": [
-            {"dauer": 3.0, "folie": einstieg},
-            {"dauer": sv_dauer, "folie": sv_kurz},
-            {"dauer": 2.6, "folie": {"layout": "aufruf", "thema": "dunkel", "frage": "Was meinst du?",
-                                     "vor": "Kommentiere", "stichwort": "A / B",
-                                     "nach": "Die Auflösung kommt sofort per DM.", "teilen": t["teilen"]}}]},
+            {"dauer": 4.0, "folie": einstieg},
+            {"dauer": sv_dauer, "folie": dict(sv_kurz, aufruf="Kommentiere A oder B")}]},
         "bilder": [
             {"datei": "dm_aufloesung.png", "format": "karte_lang", "folie": {
                 "layout": "aufloesung", "thema": "hell", "badge": land, "label": f"Auflösung · Fall {nr}",
@@ -68,7 +65,7 @@ def post(f, datum):
                 "punkte": t["punkte"], "quelle": t["quelle"], "hinweis": f"{GILT[land]} · Keine Rechtsberatung",
                 "bild": bild, "bild_pos": pos}},
             {"datei": "story_1_titel.png", "format": "story", "folie": titel},
-            {"datei": "story_2_fall.png", "format": "story", "folie": dict(fall, label=f"Fall {nr} · Der Fall")},
+            {"datei": "story_2_fall.png", "format": "story", "folie": dict(fall, label=f"Fall {nr}")},
             {"datei": "story_3_frage.png", "format": "story", "folie": dict(
                 frage, label=f"Fall {nr}", aufruf="Antworte mit A oder B – die Auflösung kommt per DM.")}],
         "bildunterschrift": bildunterschrift(f)}

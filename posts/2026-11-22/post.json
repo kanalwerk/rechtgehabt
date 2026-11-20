@@ -15,11 +15,11 @@
   "schleife": true,
   "szenen": [
    {
-    "dauer": 3.0,
+    "dauer": 4.0,
     "folie": {
      "layout": "frage",
-     "bild": "../../img/3108037.jpg",
-     "bild_pos": "50% 50%",
+     "bild": "../../img/2564629.jpg",
+     "bild_pos": "50% 30%",
      "position": "unten",
      "label": "Fall 007",
      "badge": "DE",
@@ -39,7 +39,7 @@
     }
    },
    {
-    "dauer": 4.4,
+    "dauer": 6.0,
     "folie": {
      "layout": "frage",
      "thema": "hell",
@@ -60,19 +60,8 @@
        "text": "Nein, Untermiete ist sein gutes Recht."
       }
      ],
-     "wortmarke": false
-    }
-   },
-   {
-    "dauer": 2.6,
-    "folie": {
-     "layout": "aufruf",
-     "thema": "dunkel",
-     "frage": "Was meinst du?",
-     "vor": "Kommentiere",
-     "stichwort": "A / B",
-     "nach": "Die Auflösung kommt sofort per DM.",
-     "teilen": "Denkst du an Untermiete? Schick's weiter."
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
     }
    }
   ]
@@ -107,8 +96,8 @@
     ],
     "quelle": "BGH, 28.01.2026, VIII ZR 228/23",
     "hinweis": "Gilt für Deutschland · Keine Rechtsberatung",
-    "bild": "../../img/3108037.jpg",
-    "bild_pos": "50% 50%"
+    "bild": "../../img/2564629.jpg",
+    "bild_pos": "50% 30%"
    }
   },
   {
@@ -116,8 +105,8 @@
    "format": "story",
    "folie": {
     "layout": "titel",
-    "bild": "../../img/3108037.jpg",
-    "bild_pos": "50% 50%",
+    "bild": "../../img/2564629.jpg",
+    "bild_pos": "50% 30%",
     "position": "unten",
     "label": "Fall 007",
     "badge": "DE",
@@ -131,7 +120,7 @@
    "folie": {
     "layout": "frage",
     "thema": "hell",
-    "label": "Fall 007 · Der Fall",
+    "label": "Fall 007",
     "badge": "DE",
     "sachverhalt": [
      "Ein Mieter in Berlin zahlt 460 Euro Kaltmiete für zwei Zimmer.",
