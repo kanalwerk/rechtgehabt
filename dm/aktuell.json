@@ -5,19 +5,19 @@
   "messages": [
    {
     "type": "text",
-    "text": "Deine Antwort gilt für Fall 010 «Pannenhilfe kommt nicht»."
+    "text": "Deine Antwort gilt für Fall 008 «Like unter Beleidigung»."
    }
   ],
   "actions": [
    {
     "action": "set_field_value",
     "field_name": "fall",
-    "value": "010"
+    "value": "008"
    },
    {
     "action": "set_field_value",
     "field_name": "fall_titel",
-    "value": "Pannenhilfe kommt nicht"
+    "value": "Like unter Beleidigung"
    }
   ],
   "quick_replies": []
