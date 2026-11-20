@@ -31,7 +31,7 @@ def bildunterschrift(f):
     frage = t["frage"][0].lower() + t["frage"][1:]
     tags = " ".join(h for h in t["hashtags"] if h != "#rechtgehabt")
     return (f"{kopf} – {frage}\nA: {t['optionen']['A']}\nB: {t['optionen']['B']}\n\n"
-            f"Schreib uns A oder B per DM – die Auflösung kommt sofort.\n{t['teilen']}\n\n"
+            f"Kommentiere A oder B – die Auflösung kommt sofort per DM.\n{t['teilen']}\n\n"
             f"Fall {f['nr']}: {t['quelle']} · {GILT[f['land']]} · Keine Rechtsberatung · Mit KI erstellt\n{tags}")
 
 
@@ -46,16 +46,21 @@ def post(f, datum):
             "wortmarke": False}
     frage = {"layout": "frage", "thema": "dunkel", "label": "Und das Gericht?", "badge": land, "frage": t["frage"],
              "optionen": opt, "wortmarke": False}
-    sv_dauer = 5.2 if sum(len(s) for s in t["sachverhalt"]) > 240 else 4.6
+    # Reel seit 20.11.2026: Frage + A/B ab dem ersten Bild, A/B bleiben sichtbar, Aufruf zum Kommentieren
+    einstieg = {"layout": "frage", "bild": bild, "bild_pos": pos, "position": "unten", "label": f"Fall {nr}",
+                "badge": land, "frage": t["titel"], "optionen": opt, "wortmarke": False,
+                "aufruf": "Kommentiere A oder B"}
+    sv_kurz = {"layout": "frage", "thema": "hell", "label": f"Fall {nr}", "badge": land,
+               "sachverhalt": t["sachverhalt"], "optionen": opt, "wortmarke": False}
+    sv_dauer = 5.0 if sum(len(s) for s in t["sachverhalt"]) > 240 else 4.4
     return {
         "datum": datum, "thema": f["thema"], "land": land, "quellen": f["quellen"],
         "reel": {"datei": "reel.mp4", "cover": "cover.jpg", "schleife": True, "szenen": [
-            {"dauer": 2.4, "folie": titel},
-            {"dauer": sv_dauer, "folie": fall},
-            {"dauer": 3.4, "folie": frage},
-            {"dauer": 3.4, "folie": {"layout": "aufruf", "thema": "dunkel", "frage": "Was meinst du?", "vor": "Schreib",
-                                     "stichwort": "A / B", "nach": "per DM – die Auflösung kommt sofort.",
-                                     "teilen": t["teilen"]}}]},
+            {"dauer": 3.0, "folie": einstieg},
+            {"dauer": sv_dauer, "folie": sv_kurz},
+            {"dauer": 2.6, "folie": {"layout": "aufruf", "thema": "dunkel", "frage": "Was meinst du?",
+                                     "vor": "Kommentiere", "stichwort": "A / B",
+                                     "nach": "Die Auflösung kommt sofort per DM.", "teilen": t["teilen"]}}]},
         "bilder": [
             {"datei": "dm_aufloesung.png", "format": "karte_lang", "folie": {
                 "layout": "aufloesung", "thema": "hell", "badge": land, "label": f"Auflösung · Fall {nr}",

@@ -15,41 +15,41 @@
   "schleife": true,
   "szenen": [
    {
-    "dauer": 2.4,
+    "dauer": 3.0,
     "folie": {
-     "layout": "titel",
+     "layout": "frage",
      "bild": "../../img/670278.jpg",
      "bild_pos": "50% 50%",
      "position": "unten",
      "label": "Fall 011",
      "badge": "AT",
-     "titel": "Hausbau 8 Prozent teurer: Muss man zahlen?",
-     "unter": "Wie hat das Gericht entschieden?"
+     "frage": "Hausbau 8 Prozent teurer: Muss man zahlen?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, 8 Prozent sind nicht beträchtlich."
+      },
+      {
+       "key": "B",
+       "text": "Nein, ohne Warnung gilt das Angebot."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
     }
    },
    {
-    "dauer": 4.6,
+    "dauer": 4.4,
     "folie": {
      "layout": "frage",
      "thema": "hell",
-     "label": "Der Fall",
+     "label": "Fall 011",
      "badge": "AT",
      "sachverhalt": [
       "Eine Baufirma bietet den Rohbau eines Einfamilienhauses für rund 197’550 Euro an.",
       "Am Ende kostet der Bau rund 213’350 Euro – etwa 8 Prozent mehr.",
       "Die Bauherren zahlen nicht alles: Die Firma habe sie nicht vor den Mehrkosten gewarnt."
      ],
-     "wortmarke": false
-    }
-   },
-   {
-    "dauer": 3.4,
-    "folie": {
-     "layout": "frage",
-     "thema": "dunkel",
-     "label": "Und das Gericht?",
-     "badge": "AT",
-     "frage": "Müssen sie die Mehrkosten zahlen?",
      "optionen": [
       {
        "key": "A",
@@ -64,14 +64,14 @@
     }
    },
    {
-    "dauer": 3.4,
+    "dauer": 2.6,
     "folie": {
      "layout": "aufruf",
      "thema": "dunkel",
      "frage": "Was meinst du?",
-     "vor": "Schreib",
+     "vor": "Kommentiere",
      "stichwort": "A / B",
-     "nach": "per DM – die Auflösung kommt sofort.",
+     "nach": "Die Auflösung kommt sofort per DM.",
      "teilen": "Planst du einen Umbau? Schick's weiter."
     }
    }
@@ -165,5 +165,5 @@
    }
   }
  ],
- "bildunterschrift": "Hausbau 8 Prozent teurer – müssen sie die Mehrkosten zahlen?\nA: Ja, 8 Prozent sind nicht beträchtlich.\nB: Nein, ohne Warnung gilt das Angebot.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nPlanst du einen Umbau? Schick's weiter.\n\nFall 011: OGH, 29.09.2026, 6 Ob 90/26t · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#hausbau #kostenvoranschlag #österreich #urteil"
+ "bildunterschrift": "Hausbau 8 Prozent teurer – müssen sie die Mehrkosten zahlen?\nA: Ja, 8 Prozent sind nicht beträchtlich.\nB: Nein, ohne Warnung gilt das Angebot.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nPlanst du einen Umbau? Schick's weiter.\n\nFall 011: OGH, 29.09.2026, 6 Ob 90/26t · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#hausbau #kostenvoranschlag #österreich #urteil"
 }

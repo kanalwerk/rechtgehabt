@@ -129,6 +129,7 @@ body{{font-family:'{tx}';-webkit-font-smoothing:antialiased;font-kerning:normal}
 .zahl{{font-size:{px(250)}px;line-height:.9;letter-spacing:-.045em;font-variant-numeric:tabular-nums}}
 .einheit{{font-size:{px(48)}px;font-weight:700;letter-spacing:-.01em;color:var(--ged)}}
 .vgl{{display:flex;gap:{px(24)}px}}
+.foto .opt{{background:{f['dunkel']}d9}}
 .vgl>div{{flex:1;background:var(--fl);border-radius:{r}px;padding:{px(22)}px {px(26)}px}}
 .vgl .vl{{font-size:{px(26)}px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--ged)}}
 .vgl .vw{{font-family:'{ti}';font-weight:800;font-size:{px(64)}px;letter-spacing:-.03em;margin-top:6px}}

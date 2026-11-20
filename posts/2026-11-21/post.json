@@ -20,41 +20,41 @@
   "schleife": true,
   "szenen": [
    {
-    "dauer": 2.4,
+    "dauer": 3.0,
     "folie": {
-     "layout": "titel",
+     "layout": "frage",
      "bild": "../../img/2436370.jpg",
      "bild_pos": "50% 50%",
      "position": "unten",
      "label": "Fall 009",
      "badge": "CH",
-     "titel": "Nach 19 Jahren gekündigt: Miss­bräuchlich?",
-     "unter": "Wie hat das Gericht entschieden?"
+     "frage": "Nach 19 Jahren gekündigt: Miss­bräuchlich?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, er hätte mehr Rücksicht verdient."
+      },
+      {
+       "key": "B",
+       "text": "Nein, wirtschaftliche Gründe reichen."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
     }
    },
    {
-    "dauer": 4.6,
+    "dauer": 4.4,
     "folie": {
      "layout": "frage",
      "thema": "hell",
-     "label": "Der Fall",
+     "label": "Fall 009",
      "badge": "CH",
      "sachverhalt": [
       "Ein Bäcker arbeitet seit fast 19 Jahren im selben Betrieb. Er ist 62.",
       "In der Corona-Zeit sinkt der Umsatz, eine Backstube wird geschlossen.",
       "Im Mai 2020 bekommt er die Kündigung – ohne vorheriges Gespräch über andere Lösungen."
      ],
-     "wortmarke": false
-    }
-   },
-   {
-    "dauer": 3.4,
-    "folie": {
-     "layout": "frage",
-     "thema": "dunkel",
-     "label": "Und das Gericht?",
-     "badge": "CH",
-     "frage": "Ist die Kündigung missbräuchlich?",
      "optionen": [
       {
        "key": "A",
@@ -69,14 +69,14 @@
     }
    },
    {
-    "dauer": 3.4,
+    "dauer": 2.6,
     "folie": {
      "layout": "aufruf",
      "thema": "dunkel",
      "frage": "Was meinst du?",
-     "vor": "Schreib",
+     "vor": "Kommentiere",
      "stichwort": "A / B",
-     "nach": "per DM – die Auflösung kommt sofort.",
+     "nach": "Die Auflösung kommt sofort per DM.",
      "teilen": "Kennst du jemanden kurz vor der Pension? Schick's weiter."
     }
    }
@@ -170,5 +170,5 @@
    }
   }
  ],
- "bildunterschrift": "Nach 19 Jahren gekündigt – ist die Kündigung missbräuchlich?\nA: Ja, er hätte mehr Rücksicht verdient.\nB: Nein, wirtschaftliche Gründe reichen.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nKennst du jemanden kurz vor der Pension? Schick's weiter.\n\nFall 009: Bundesgericht, 08.10.2024, 4A_617/2023 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#arbeitsrecht #kündigung #schweiz #urteil"
+ "bildunterschrift": "Nach 19 Jahren gekündigt – ist die Kündigung missbräuchlich?\nA: Ja, er hätte mehr Rücksicht verdient.\nB: Nein, wirtschaftliche Gründe reichen.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nKennst du jemanden kurz vor der Pension? Schick's weiter.\n\nFall 009: Bundesgericht, 08.10.2024, 4A_617/2023 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#arbeitsrecht #kündigung #schweiz #urteil"
 }

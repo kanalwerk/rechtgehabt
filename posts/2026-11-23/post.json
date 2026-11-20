@@ -15,41 +15,41 @@
   "schleife": true,
   "szenen": [
    {
-    "dauer": 2.4,
+    "dauer": 3.0,
     "folie": {
-     "layout": "titel",
+     "layout": "frage",
      "bild": "../../img/5013876.jpg",
      "bild_pos": "50% 45%",
      "position": "unten",
      "label": "Fall 012",
      "badge": "CH",
-     "titel": "«Not M*lk» auf dem Haferdrink: Erlaubt?",
-     "unter": "Wie hat das Gericht entschieden?"
+     "frage": "«Not M*lk» auf dem Haferdrink: Erlaubt?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, da steht ja «not»."
+      },
+      {
+       "key": "B",
+       "text": "Nein, «Milch» ist für Veganes tabu."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
     }
    },
    {
-    "dauer": 5.2,
+    "dauer": 5.0,
     "folie": {
      "layout": "frage",
      "thema": "hell",
-     "label": "Der Fall",
+     "label": "Fall 012",
      "badge": "CH",
      "sachverhalt": [
       "Auf einem Haferdrink steht gross «This is not M*lk». Statt des i ist ein weisser Tropfen gedruckt.",
       "Das Zürcher Kantonslabor verbietet den Verkauf mit dieser Aufschrift.",
       "Die Herstellerin wehrt sich bis vor Bundesgericht: Da stehe doch, es sei keine Milch."
      ],
-     "wortmarke": false
-    }
-   },
-   {
-    "dauer": 3.4,
-    "folie": {
-     "layout": "frage",
-     "thema": "dunkel",
-     "label": "Und das Gericht?",
-     "badge": "CH",
-     "frage": "Darf die Aufschrift bleiben?",
      "optionen": [
       {
        "key": "A",
@@ -64,14 +64,14 @@
     }
    },
    {
-    "dauer": 3.4,
+    "dauer": 2.6,
     "folie": {
      "layout": "aufruf",
      "thema": "dunkel",
      "frage": "Was meinst du?",
-     "vor": "Schreib",
+     "vor": "Kommentiere",
      "stichwort": "A / B",
-     "nach": "per DM – die Auflösung kommt sofort.",
+     "nach": "Die Auflösung kommt sofort per DM.",
      "teilen": "Trinkst du Haferdrink? Schick's weiter."
     }
    }
@@ -165,5 +165,5 @@
    }
   }
  ],
- "bildunterschrift": "«Not M*lk» auf dem Haferdrink – darf die Aufschrift bleiben?\nA: Ja, da steht ja «not».\nB: Nein, «Milch» ist für Veganes tabu.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nTrinkst du Haferdrink? Schick's weiter.\n\nFall 012: Bundesgericht, 27.03.2026, 2C_47/2025 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#lebensmittel #vegan #schweiz #urteil"
+ "bildunterschrift": "«Not M*lk» auf dem Haferdrink – darf die Aufschrift bleiben?\nA: Ja, da steht ja «not».\nB: Nein, «Milch» ist für Veganes tabu.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nTrinkst du Haferdrink? Schick's weiter.\n\nFall 012: Bundesgericht, 27.03.2026, 2C_47/2025 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#lebensmittel #vegan #schweiz #urteil"
 }

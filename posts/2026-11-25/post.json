@@ -15,41 +15,41 @@
   "schleife": true,
   "szenen": [
    {
-    "dauer": 2.4,
+    "dauer": 3.0,
     "folie": {
-     "layout": "titel",
+     "layout": "frage",
      "bild": "../../img/2869101.jpg",
      "bild_pos": "60% 50%",
      "position": "unten",
      "label": "Fall 013",
      "badge": "DE",
-     "titel": "Dachzelt fliegt weg: Wer zahlt den Schaden?",
-     "unter": "Wie hat das Gericht entschieden?"
+     "frage": "Dachzelt fliegt weg: Wer zahlt den Schaden?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, sie hätte es besser prüfen müssen."
+      },
+      {
+       "key": "B",
+       "text": "Nein, er hat es ja montiert."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
     }
    },
    {
-    "dauer": 5.2,
+    "dauer": 5.0,
     "folie": {
      "layout": "frage",
      "thema": "hell",
-     "label": "Der Fall",
+     "label": "Fall 013",
      "badge": "DE",
      "sachverhalt": [
       "Eine Frau mietet für den Urlaub ein Dachzelt. Der Vermieter montiert es auf ihren Bus.",
       "Auf einer Autobahn in Frankreich löst sich das Zelt samt Trägern und fliegt davon.",
       "Unterwegs hat sie nur ab und zu daran gerüttelt. Der Vermieter will Schadenersatz."
      ],
-     "wortmarke": false
-    }
-   },
-   {
-    "dauer": 3.4,
-    "folie": {
-     "layout": "frage",
-     "thema": "dunkel",
-     "label": "Und das Gericht?",
-     "badge": "DE",
-     "frage": "Muss sie für den Schaden zahlen?",
      "optionen": [
       {
        "key": "A",
@@ -64,14 +64,14 @@
     }
    },
    {
-    "dauer": 3.4,
+    "dauer": 2.6,
     "folie": {
      "layout": "aufruf",
      "thema": "dunkel",
      "frage": "Was meinst du?",
-     "vor": "Schreib",
+     "vor": "Kommentiere",
      "stichwort": "A / B",
-     "nach": "per DM – die Auflösung kommt sofort.",
+     "nach": "Die Auflösung kommt sofort per DM.",
      "teilen": "Fährst du mit Dachzelt in die Ferien? Schick's weiter."
     }
    }
@@ -165,5 +165,5 @@
    }
   }
  ],
- "bildunterschrift": "Dachzelt fliegt weg – muss sie für den Schaden zahlen?\nA: Ja, sie hätte es besser prüfen müssen.\nB: Nein, er hat es ja montiert.\n\nSchreib uns A oder B per DM – die Auflösung kommt sofort.\nFährst du mit Dachzelt in die Ferien? Schick's weiter.\n\nFall 013: AG München, 27.02.2025, 223 C 16031/24 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#reisen #camping #deutschland #urteil"
+ "bildunterschrift": "Dachzelt fliegt weg – muss sie für den Schaden zahlen?\nA: Ja, sie hätte es besser prüfen müssen.\nB: Nein, er hat es ja montiert.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nFährst du mit Dachzelt in die Ferien? Schick's weiter.\n\nFall 013: AG München, 27.02.2025, 223 C 16031/24 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#reisen #camping #deutschland #urteil"
 }
