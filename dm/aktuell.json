@@ -5,19 +5,19 @@
   "messages": [
    {
     "type": "text",
-    "text": "Deine Antwort gilt für Fall 008 «Like unter Beleidigung»."
+    "text": "Deine Antwort gilt für Fall 009 «Nach 19 Jahren gekündigt»."
    }
   ],
   "actions": [
    {
     "action": "set_field_value",
     "field_name": "fall",
-    "value": "008"
+    "value": "009"
    },
    {
     "action": "set_field_value",
     "field_name": "fall_titel",
-    "value": "Like unter Beleidigung"
+    "value": "Nach 19 Jahren gekündigt"
    }
   ],
   "quick_replies": []
