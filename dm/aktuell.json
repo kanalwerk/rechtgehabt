@@ -5,19 +5,19 @@
   "messages": [
    {
     "type": "text",
-    "text": "Deine Antwort gilt für Fall 009 «Nach 19 Jahren gekündigt»."
+    "text": "Deine Antwort gilt für Fall 007 «Wohnung teurer untervermietet»."
    }
   ],
   "actions": [
    {
     "action": "set_field_value",
     "field_name": "fall",
-    "value": "009"
+    "value": "007"
    },
    {
     "action": "set_field_value",
     "field_name": "fall_titel",
-    "value": "Nach 19 Jahren gekündigt"
+    "value": "Wohnung teurer untervermietet"
    }
   ],
   "quick_replies": []

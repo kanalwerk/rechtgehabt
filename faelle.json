@@ -460,7 +460,7 @@
   },
   {
    "nr": "007",
-   "status": "geplant",
+   "status": "verwendet",
    "land": "DE",
    "bereich": "Wohnen und Miete",
    "thema": "Miete: Untermiete mit Gewinn",
@@ -527,7 +527,7 @@
      "lauf": "woche (Primärquelle gelesen)"
     }
    ],
-   "verwendet_am": null,
+   "verwendet_am": "2026-11-22",
    "geplant_fuer": "2026-11-22"
   },
   {
