@@ -5,19 +5,19 @@
   "messages": [
    {
     "type": "text",
-    "text": "Deine Antwort gilt für Fall 007 «Wohnung teurer untervermietet»."
+    "text": "Deine Antwort gilt für Fall 012 ««Not M*lk» auf dem Haferdrink»."
    }
   ],
   "actions": [
    {
     "action": "set_field_value",
     "field_name": "fall",
-    "value": "007"
+    "value": "012"
    },
    {
     "action": "set_field_value",
     "field_name": "fall_titel",
-    "value": "Wohnung teurer untervermietet"
+    "value": "«Not M*lk» auf dem Haferdrink"
    }
   ],
   "quick_replies": []
