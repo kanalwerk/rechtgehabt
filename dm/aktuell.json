@@ -5,19 +5,19 @@
   "messages": [
    {
     "type": "text",
-    "text": "Deine Antwort gilt für Fall 012 ««Not M*lk» auf dem Haferdrink»."
+    "text": "Deine Antwort gilt für Fall 011 «Hausbau 8 Prozent teurer»."
    }
   ],
   "actions": [
    {
     "action": "set_field_value",
     "field_name": "fall",
-    "value": "012"
+    "value": "011"
    },
    {
     "action": "set_field_value",
     "field_name": "fall_titel",
-    "value": "«Not M*lk» auf dem Haferdrink"
+    "value": "Hausbau 8 Prozent teurer"
    }
   ],
   "quick_replies": []

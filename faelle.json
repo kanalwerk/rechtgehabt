@@ -753,7 +753,7 @@
   },
   {
    "nr": "011",
-   "status": "geplant",
+   "status": "verwendet",
    "land": "AT",
    "bereich": "Einkaufen und Verträge",
    "thema": "Verträge: Kostenvoranschlag überschritten",
@@ -820,7 +820,7 @@
      "lauf": "woche (Primärquelle gelesen)"
     }
    ],
-   "verwendet_am": null,
+   "verwendet_am": "2026-11-24",
    "geplant_fuer": "2026-11-24"
   },
   {
