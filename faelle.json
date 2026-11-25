@@ -897,7 +897,7 @@
   },
   {
    "nr": "013",
-   "status": "geplant",
+   "status": "verwendet",
    "land": "DE",
    "bereich": "Reisen und Freizeit",
    "thema": "Reisen: Dachzelt fliegt weg",
@@ -964,7 +964,7 @@
      "lauf": "woche (Primärquelle gelesen)"
     }
    ],
-   "verwendet_am": null,
+   "verwendet_am": "2026-11-25",
    "geplant_fuer": "2026-11-25"
   }
  ]
