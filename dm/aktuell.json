@@ -5,19 +5,19 @@
   "messages": [
    {
     "type": "text",
-    "text": "Deine Antwort gilt für Fall 013 «Dachzelt fliegt weg»."
+    "text": "Deine Antwort gilt für Fall 003 «1 km/h zu schnell»."
    }
   ],
   "actions": [
    {
     "action": "set_field_value",
     "field_name": "fall",
-    "value": "013"
+    "value": "003"
    },
    {
     "action": "set_field_value",
     "field_name": "fall_titel",
-    "value": "Dachzelt fliegt weg"
+    "value": "1 km/h zu schnell"
    }
   ],
   "quick_replies": []

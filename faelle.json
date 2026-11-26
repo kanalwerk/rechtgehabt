@@ -152,7 +152,7 @@
   },
   {
    "nr": "003",
-   "status": "geplant",
+   "status": "verwendet",
    "land": "CH",
    "bereich": "Auto und Verkehr",
    "thema": "Verkehr: 1 km/h zu schnell",
@@ -224,7 +224,7 @@
      "lauf": "tag (Primärquelle erneut gelesen, übereinstimmend)"
     }
    ],
-   "verwendet_am": null,
+   "verwendet_am": "2026-11-26",
    "geplant_fuer": "2026-11-26"
   },
   {
