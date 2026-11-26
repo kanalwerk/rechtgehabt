@@ -1,0 +1,158 @@
+{
+ "datum": "2026-11-29",
+ "thema": "Nachbarn: Dekohase im Hof",
+ "land": "DE",
+ "quellen": [
+  {
+   "titel": "AG München, Pressemitteilung 11/2026",
+   "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/11.php",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 4.0,
+    "folie": {
+     "layout": "frage",
+     "bild": "../../img/2357621.jpg",
+     "bild_pos": "50% 50%",
+     "position": "unten",
+     "label": "Fall 016",
+     "badge": "DE",
+     "frage": "Kaputter Dekohase: Muss die Nachbarin zahlen?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, sie zahlt die 20 Euro."
+      },
+      {
+       "key": "B",
+       "text": "Nein, sie wollte nur die Katzen holen."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   },
+   {
+    "dauer": 6.0,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Fall 016",
+     "badge": "DE",
+     "sachverhalt": [
+      "Im Hof eines Mehrfamilienhauses steht eine Hasenfigur im Beet.",
+      "Eines Tages ist der Kopf ab, ein Nachbar hat eine Mitbewohnerin an der Figur gesehen.",
+      "Sie sagt, sie habe nur ihre Katzen eingefangen. Die Besitzerin will 20 Euro."
+     ],
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, sie zahlt die 20 Euro."
+      },
+      {
+       "key": "B",
+       "text": "Nein, sie wollte nur die Katzen holen."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "DE",
+    "label": "Auflösung · Fall 016",
+    "ergebnis": {
+     "key": "A",
+     "text": "Richtig: Ja, sie zahlt 20 Euro."
+    },
+    "headline": "Streit um 20 Euro – und ein klares Urteil",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Gericht gab der Besitzerin vollständig recht. Die Nachbarin muss die 20 Euro für die kaputte Figur zahlen."
+     ],
+     [
+      "Warum",
+      "Sie bestritt nicht klar, den Hasen beschädigt zu haben. Die Katzen-Erklärung entschuldigte den Schaden nicht."
+     ],
+     [
+      "Gut zu wissen",
+      "Wer vor Gericht etwas abstreitet, muss das konkret tun. Ein vages «wenn, dann» reicht dafür nicht aus."
+     ]
+    ],
+    "quelle": "AG München, Urteil vom 02.01.2025, 172 C 23447/24 (rechtskräftig)",
+    "hinweis": "Gilt für Deutschland · Keine Rechtsberatung",
+    "bild": "../../img/2357621.jpg",
+    "bild_pos": "50% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/2357621.jpg",
+    "bild_pos": "50% 50%",
+    "position": "unten",
+    "label": "Fall 016",
+    "badge": "DE",
+    "titel": "Kaputter Dekohase: Muss die Nachbarin zahlen?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 016",
+    "badge": "DE",
+    "sachverhalt": [
+     "Im Hof eines Mehrfamilienhauses steht eine Hasenfigur im Beet.",
+     "Eines Tages ist der Kopf ab, ein Nachbar hat eine Mitbewohnerin an der Figur gesehen.",
+     "Sie sagt, sie habe nur ihre Katzen eingefangen. Die Besitzerin will 20 Euro."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 016",
+    "badge": "DE",
+    "frage": "Muss die Nachbarin zahlen?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, sie zahlt die 20 Euro."
+     },
+     {
+      "key": "B",
+      "text": "Nein, sie wollte nur die Katzen holen."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Kaputter Dekohase – muss die Nachbarin zahlen?\nA: Ja, sie zahlt die 20 Euro.\nB: Nein, sie wollte nur die Katzen holen.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nHast du Deko im Garten? Schick's weiter.\n\nFall 016: AG München, Urteil vom 02.01.2025, 172 C 23447/24 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#nachbarn #nachbarschaftsstreit #deutschland #urteil"
+}

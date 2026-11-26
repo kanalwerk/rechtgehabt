@@ -1,0 +1,163 @@
+{
+ "datum": "2026-12-01",
+ "thema": "Nachbarn: Baumwurzeln an der Grenze",
+ "land": "AT",
+ "quellen": [
+  {
+   "titel": "OGH-Kurzfassung 8 Ob 3/25m",
+   "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/klage-wegen-vermeintlich-durch-die-wurzeln-der-baeume-der-nachbarin-entstandener-schaeden/",
+   "art": "primaer"
+  },
+  {
+   "titel": "RIS-Volltext",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20250227_OGH0002_0080OB00003_25M0000_000",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 4.0,
+    "folie": {
+     "layout": "frage",
+     "bild": "../../img/5096691.jpg",
+     "bild_pos": "50% 50%",
+     "position": "unten",
+     "label": "Fall 018",
+     "badge": "AT",
+     "frage": "Wurzeln vom Nachbarbaum: Wer zahlt den Schaden?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, an der Grenze pflanzen ist verboten."
+      },
+      {
+       "key": "B",
+       "text": "Nein, die Gefahr war nicht erkennbar."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   },
+   {
+    "dauer": 6.0,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Fall 018",
+     "badge": "AT",
+     "sachverhalt": [
+      "Auf dem Nachbargrundstück stehen Bäume direkt an der Grenze.",
+      "Ein Hausbesitzer sagt, ihre Wurzeln hätten seine Entwässerungsrinne beschädigt.",
+      "Er verlangt über 33’000 Euro Schadenersatz von der Nachbarin."
+     ],
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, an der Grenze pflanzen ist verboten."
+      },
+      {
+       "key": "B",
+       "text": "Nein, die Gefahr war nicht erkennbar."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "AT",
+    "label": "Auflösung · Fall 018",
+    "ergebnis": {
+     "key": "B",
+     "text": "Richtig: Nein, sie zahlt nicht."
+    },
+    "headline": "Bäume an der Grenze pflanzen ist erlaubt",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Die Klage blieb erfolglos. Der OGH wies die Revision zurück: Die Vorinstanzen folgten der bisherigen Rechtsprechung."
+     ],
+     [
+      "Warum",
+      "Pflanzen an der Grenze ist nicht rechtswidrig. Zahlen muss nur, wer die Gefahr durch Wurzeln erkennen konnte."
+     ],
+     [
+      "Gut zu wissen",
+      "Herüberwachsende Äste und Wurzeln muss man meist dulden – ausser sie werden zur konkreten Gefahr."
+     ]
+    ],
+    "quelle": "OGH, Beschluss vom 27.02.2025, 8 Ob 3/25m · Quelle: RIS",
+    "hinweis": "Gilt für Österreich · Keine Rechtsberatung",
+    "bild": "../../img/5096691.jpg",
+    "bild_pos": "50% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/5096691.jpg",
+    "bild_pos": "50% 50%",
+    "position": "unten",
+    "label": "Fall 018",
+    "badge": "AT",
+    "titel": "Wurzeln vom Nachbarbaum: Wer zahlt den Schaden?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 018",
+    "badge": "AT",
+    "sachverhalt": [
+     "Auf dem Nachbargrundstück stehen Bäume direkt an der Grenze.",
+     "Ein Hausbesitzer sagt, ihre Wurzeln hätten seine Entwässerungsrinne beschädigt.",
+     "Er verlangt über 33’000 Euro Schadenersatz von der Nachbarin."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 018",
+    "badge": "AT",
+    "frage": "Muss die Nachbarin zahlen?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, an der Grenze pflanzen ist verboten."
+     },
+     {
+      "key": "B",
+      "text": "Nein, die Gefahr war nicht erkennbar."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Wurzeln vom Nachbarbaum – muss die Nachbarin zahlen?\nA: Ja, an der Grenze pflanzen ist verboten.\nB: Nein, die Gefahr war nicht erkennbar.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nHast du Bäume an der Grundstücksgrenze? Schick's weiter.\n\nFall 018: OGH, Beschluss vom 27.02.2025, 8 Ob 3/25m · Quelle: RIS · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#nachbarn #garten #österreich #urteil"
+}

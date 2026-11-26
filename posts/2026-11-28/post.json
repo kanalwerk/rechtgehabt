@@ -1,0 +1,163 @@
+{
+ "datum": "2026-11-28",
+ "thema": "Arbeit: Internet im Homeoffice",
+ "land": "AT",
+ "quellen": [
+  {
+   "titel": "OGH-Kurzfassung 8 ObA 21/26k",
+   "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/kosten-fuer-internet-bei-home-office/",
+   "art": "primaer"
+  },
+  {
+   "titel": "RIS-Volltext",
+   "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20261022_OGH0002_008OBA00021_26K0000_000",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 4.0,
+    "folie": {
+     "layout": "frage",
+     "bild": "../../img/2846221.jpg",
+     "bild_pos": "50% 50%",
+     "position": "unten",
+     "label": "Fall 015",
+     "badge": "AT",
+     "frage": "Muss die Firma dein Homeoffice-Internet zahlen?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, Internet ist ein Arbeitsmittel."
+      },
+      {
+       "key": "B",
+       "text": "Nein, Internet hat man privat sowieso."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   },
+   {
+    "dauer": 6.0,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Fall 015",
+     "badge": "AT",
+     "sachverhalt": [
+      "Eine Firma lässt viele Angestellte regelmässig im Homeoffice arbeiten.",
+      "Den Laptop stellt sie, die Kosten fürs Internet übernimmt sie nicht.",
+      "Im Vertrag steht sogar, dass dafür kein Ersatz verlangt werden kann."
+     ],
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, Internet ist ein Arbeitsmittel."
+      },
+      {
+       "key": "B",
+       "text": "Nein, Internet hat man privat sowieso."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "AT",
+    "label": "Auflösung · Fall 015",
+    "ergebnis": {
+     "key": "A",
+     "text": "Richtig: Ja, die Firma zahlt mit."
+    },
+    "headline": "Homeoffice: Die Firma zahlt das Internet mit",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Die Firma muss das Internet stellen oder die angemessenen Kosten ersetzen, pauschal oder nach dem beruflichen Anteil."
+     ],
+     [
+      "Warum",
+      "Internet zählt laut Gesetz zu den digitalen Arbeitsmitteln. Ein Verzicht auf jeden Ersatz im Vertrag gilt nicht."
+     ],
+     [
+      "Gut zu wissen",
+      "Ersatz gibt es auch bei einer privaten Flatrate. Ein Fahrtkostenzuschuss deckt das nicht ab."
+     ]
+    ],
+    "quelle": "OGH, Entscheidung vom 22.10.2026, 8 ObA 21/26k · Quelle: RIS",
+    "hinweis": "Gilt für Österreich · Keine Rechtsberatung",
+    "bild": "../../img/2846221.jpg",
+    "bild_pos": "50% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/2846221.jpg",
+    "bild_pos": "50% 50%",
+    "position": "unten",
+    "label": "Fall 015",
+    "badge": "AT",
+    "titel": "Muss die Firma dein Homeoffice-Internet zahlen?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 015",
+    "badge": "AT",
+    "sachverhalt": [
+     "Eine Firma lässt viele Angestellte regelmässig im Homeoffice arbeiten.",
+     "Den Laptop stellt sie, die Kosten fürs Internet übernimmt sie nicht.",
+     "Im Vertrag steht sogar, dass dafür kein Ersatz verlangt werden kann."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 015",
+    "badge": "AT",
+    "frage": "Zahlt die Firma das Internet?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, Internet ist ein Arbeitsmittel."
+     },
+     {
+      "key": "B",
+      "text": "Nein, Internet hat man privat sowieso."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Muss die Firma dein Homeoffice-Internet zahlen? – zahlt die Firma das Internet?\nA: Ja, Internet ist ein Arbeitsmittel.\nB: Nein, Internet hat man privat sowieso.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nArbeitest du im Homeoffice? Schick's weiter.\n\nFall 015: OGH, Entscheidung vom 22.10.2026, 8 ObA 21/26k · Quelle: RIS · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#homeoffice #arbeitsrecht #österreich #urteil"
+}

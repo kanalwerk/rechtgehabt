@@ -1,0 +1,158 @@
+{
+ "datum": "2026-11-26",
+ "thema": "Verkehr: 1 km/h zu schnell",
+ "land": "CH",
+ "quellen": [
+  {
+   "titel": "Bundesgericht 6B_573/2024",
+   "url": "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza://07-05-2026-6B_573-2024&lang=de&type=show_document",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 4.0,
+    "folie": {
+     "layout": "frage",
+     "bild": "../../img/7392734.jpg",
+     "bild_pos": "66% 50%",
+     "position": "unten",
+     "label": "Fall 003",
+     "badge": "CH",
+     "frage": "1 km/h zu schnell: Radar oder Tacho?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Das Radar."
+      },
+      {
+       "key": "B",
+       "text": "Der Tacho."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   },
+   {
+    "dauer": 6.0,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Fall 003",
+     "badge": "CH",
+     "sachverhalt": [
+      "Ein Rollerfahrer wird innerorts im Kanton Luzern geblitzt: 1 km/h zu schnell, nach Abzug der Toleranz.",
+      "Busse: 40 Franken. Er wehrt sich bis vor Bundesgericht.",
+      "Sein Argument: Auf dem Tacho habe er nicht sehen können, wie schnell er war."
+     ],
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Das Radar."
+      },
+      {
+       "key": "B",
+       "text": "Der Tacho."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "CH",
+    "label": "Auflösung · Fall 003",
+    "ergebnis": {
+     "key": "A",
+     "text": "Richtig: Das Radar zählt."
+    },
+    "headline": "Aus 40 Franken werden rund 6900",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Bundesgericht weist die Beschwerde ab. Massgebend ist das Radargerät, nicht der Tacho."
+     ],
+     [
+      "Warum",
+      "Den Tacho richtig abzulesen, liegt in der Verantwortung des Fahrers."
+     ],
+     [
+      "Die Rechnung",
+      "40 Franken Busse, 3840 Franken Kosten vor Kantonsgericht, 3000 Franken vor Bundesgericht."
+     ]
+    ],
+    "quelle": "Bundesgericht, Urteil vom 07.05.2026, 6B_573/2024",
+    "hinweis": "Gilt für die Schweiz · Keine Rechtsberatung",
+    "bild": "../../img/7392734.jpg",
+    "bild_pos": "66% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/7392734.jpg",
+    "bild_pos": "66% 50%",
+    "position": "unten",
+    "label": "Fall 003",
+    "badge": "CH",
+    "titel": "1 km/h zu schnell: Radar oder Tacho?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 003",
+    "badge": "CH",
+    "sachverhalt": [
+     "Ein Rollerfahrer wird innerorts im Kanton Luzern geblitzt: 1 km/h zu schnell, nach Abzug der Toleranz.",
+     "Busse: 40 Franken. Er wehrt sich bis vor Bundesgericht.",
+     "Sein Argument: Auf dem Tacho habe er nicht sehen können, wie schnell er war."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 003",
+    "badge": "CH",
+    "frage": "Was zählt vor Gericht?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Das Radar."
+     },
+     {
+      "key": "B",
+      "text": "Der Tacho."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "1 km/h zu schnell – was zählt vor Gericht?\nA: Das Radar.\nB: Der Tacho.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nKennst du jemanden mit Roller oder Auto? Schick's weiter.\n\nFall 003: Bundesgericht, Urteil vom 07.05.2026, 6B_573/2024 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#verkehr #busse #schweiz #urteil"
+}

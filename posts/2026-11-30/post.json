@@ -1,0 +1,163 @@
+{
+ "datum": "2026-11-30",
+ "thema": "Wohnen: Airbnb-Verbot",
+ "land": "CH",
+ "quellen": [
+  {
+   "titel": "Bundesgericht 5A_102/2026",
+   "url": "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza://11-09-2026-5A_102-2026&lang=de&type=show_document",
+   "art": "primaer"
+  },
+  {
+   "titel": "Luzerner Zeitung",
+   "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/bundesgericht-verbietet-airbnb-vermietung-in-malters-ld.4272829",
+   "art": "hinweis"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 4.0,
+    "folie": {
+     "layout": "frage",
+     "bild": "../../img/3475656.jpg",
+     "bild_pos": "30% 50%",
+     "position": "unten",
+     "label": "Fall 017",
+     "badge": "CH",
+     "frage": "Airbnb im Haus: Dürfen die Nachbarn es verbieten?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, die Mehrheit durfte es beschliessen."
+      },
+      {
+       "key": "B",
+       "text": "Nein, dafür braucht es alle Stimmen."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   },
+   {
+    "dauer": 6.0,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Fall 017",
+     "badge": "CH",
+     "sachverhalt": [
+      "Ein Eigentümer vermietet zwei Wohnungen in einem Terrassenhaus tageweise über Airbnb.",
+      "Die Stockwerkeigentümer verbieten kurze Vermietungen per Mehrheitsbeschluss.",
+      "Er wehrt sich: Für so ein Verbot brauche es die Zustimmung aller."
+     ],
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, die Mehrheit durfte es beschliessen."
+      },
+      {
+       "key": "B",
+       "text": "Nein, dafür braucht es alle Stimmen."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "CH",
+    "label": "Auflösung · Fall 017",
+    "ergebnis": {
+     "key": "A",
+     "text": "Richtig: Ja, das Verbot gilt."
+    },
+    "headline": "Airbnb-Verbot im Haus ist gültig",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Bundesgericht weist die Beschwerde ab. Das Verbot bleibt, der Eigentümer zahlt 6000 Franken Gerichtskosten."
+     ],
+     [
+      "Warum",
+      "Tageweise Vermietung gleicht einem Hotel und passt nicht zum Wohnzweck im Reglement. Darum war keine Einstimmigkeit nötig."
+     ],
+     [
+      "Gut zu wissen",
+      "Dauerhaft vermieten bleibt erlaubt. Entscheidend ist das Haus: Hier gab es nur fünf Wohnungen."
+     ]
+    ],
+    "quelle": "Bundesgericht, Urteil vom 11.09.2026, 5A_102/2026",
+    "hinweis": "Gilt für die Schweiz · Keine Rechtsberatung",
+    "bild": "../../img/3475656.jpg",
+    "bild_pos": "30% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/3475656.jpg",
+    "bild_pos": "30% 50%",
+    "position": "unten",
+    "label": "Fall 017",
+    "badge": "CH",
+    "titel": "Airbnb im Haus: Dürfen die Nachbarn es verbieten?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 017",
+    "badge": "CH",
+    "sachverhalt": [
+     "Ein Eigentümer vermietet zwei Wohnungen in einem Terrassenhaus tageweise über Airbnb.",
+     "Die Stockwerkeigentümer verbieten kurze Vermietungen per Mehrheitsbeschluss.",
+     "Er wehrt sich: Für so ein Verbot brauche es die Zustimmung aller."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 017",
+    "badge": "CH",
+    "frage": "Gilt das Verbot?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, die Mehrheit durfte es beschliessen."
+     },
+     {
+      "key": "B",
+      "text": "Nein, dafür braucht es alle Stimmen."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Airbnb im Haus – gilt das Verbot?\nA: Ja, die Mehrheit durfte es beschliessen.\nB: Nein, dafür braucht es alle Stimmen.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nKennst du jemanden mit einer Airbnb-Wohnung? Schick's weiter.\n\nFall 017: Bundesgericht, Urteil vom 11.09.2026, 5A_102/2026 · Gilt für die Schweiz · Keine Rechtsberatung · Mit KI erstellt\n#airbnb #stockwerkeigentum #schweiz #urteil"
+}

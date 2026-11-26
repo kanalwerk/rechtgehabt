@@ -1,5 +1,5 @@
 {
- "naechste_nr": 14,
+ "naechste_nr": 21,
  "faelle": [
   {
    "nr": "001",
@@ -152,7 +152,7 @@
   },
   {
    "nr": "003",
-   "status": "vorrat",
+   "status": "geplant",
    "land": "CH",
    "bereich": "Auto und Verkehr",
    "thema": "Verkehr: 1 km/h zu schnell",
@@ -218,9 +218,14 @@
     {
      "datum": "2026-11-15",
      "lauf": "einrichtung"
+    },
+    {
+     "datum": "2026-11-26",
+     "lauf": "tag (Primärquelle erneut gelesen, übereinstimmend)"
     }
    ],
-   "verwendet_am": null
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-26"
   },
   {
    "nr": "004",
@@ -966,6 +971,536 @@
    ],
    "verwendet_am": "2026-11-25",
    "geplant_fuer": "2026-11-25"
+  },
+  {
+   "nr": "014",
+   "status": "geplant",
+   "land": "DE",
+   "bereich": "Tiere",
+   "thema": "Tiere: Hunde und Paketbote",
+   "gericht": "AG München",
+   "datum": "2026-02-12",
+   "aktenzeichen": "223 C 6838/25",
+   "rechtskraft": "rechtskräftig",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "AG München, Pressemitteilung 14/2026",
+     "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/14.php",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 4668593,
+    "pos": "40% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Paketbote flüchtet aufs Auto: Wer zahlt?",
+     "sachverhalt": [
+      "Ein Paketbote klingelt, die Haustür geht auf.",
+      "Drei Hunde rennen bellend auf ihn zu, er rettet sich auf die Motorhaube eines teuren Geländewagens.",
+      "Der Hundehalter verlangt von Bote und Firma rund 2700 Euro für eine neue Lackierung."
+     ],
+     "frage": "Muss der Paketbote zahlen?",
+     "optionen": {
+      "A": "Ja, er hat das Auto beschädigt.",
+      "B": "Nein, die Hunde haben ihn erschreckt."
+     },
+     "ergebnis": "Richtig: Nein, er muss nicht zahlen.",
+     "headline": "Wer Hunde hält, haftet auch für den Schreck",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Gericht wies die Klage des Hundehalters ab. Weder der Bote noch seine Firma müssen zahlen."
+      ],
+      [
+       "Warum",
+       "Bellen und Zurennen ist eine typische Tiergefahr. Die Flucht war verständlich, die Haftung des Tierhalters überwiegt klar."
+      ],
+      [
+       "Gut zu wissen",
+       "Die Hunde müssen nicht aggressiv sein, ein Schreck reicht. Ob die Kratzer vom Vorfall stammen, war zudem fraglich."
+      ]
+     ],
+     "quelle": "AG München, Urteil vom 12.02.2026, 223 C 6838/25 (rechtskräftig)",
+     "gilt": "Gilt für Deutschland",
+     "teilen": "Hast du einen Hund? Schick's weiter.",
+     "hashtags": [
+      "#hundehalter",
+      "#paketbote",
+      "#deutschland",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-26",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-27"
+  },
+  {
+   "nr": "015",
+   "status": "geplant",
+   "land": "AT",
+   "bereich": "Arbeit",
+   "thema": "Arbeit: Internet im Homeoffice",
+   "gericht": "OGH",
+   "datum": "2026-10-22",
+   "aktenzeichen": "8 ObA 21/26k",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "OGH-Kurzfassung 8 ObA 21/26k",
+     "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/kosten-fuer-internet-bei-home-office/",
+     "art": "primaer"
+    },
+    {
+     "titel": "RIS-Volltext",
+     "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20261022_OGH0002_008OBA00021_26K0000_000",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 2846221,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Muss die Firma dein Homeoffice-Internet zahlen?",
+     "sachverhalt": [
+      "Eine Firma lässt viele Angestellte regelmässig im Homeoffice arbeiten.",
+      "Den Laptop stellt sie, die Kosten fürs Internet übernimmt sie nicht.",
+      "Im Vertrag steht sogar, dass dafür kein Ersatz verlangt werden kann."
+     ],
+     "frage": "Zahlt die Firma das Internet?",
+     "optionen": {
+      "A": "Ja, Internet ist ein Arbeitsmittel.",
+      "B": "Nein, Internet hat man privat sowieso."
+     },
+     "ergebnis": "Richtig: Ja, die Firma zahlt mit.",
+     "headline": "Homeoffice: Die Firma zahlt das Internet mit",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Die Firma muss das Internet stellen oder die angemessenen Kosten ersetzen, pauschal oder nach dem beruflichen Anteil."
+      ],
+      [
+       "Warum",
+       "Internet zählt laut Gesetz zu den digitalen Arbeitsmitteln. Ein Verzicht auf jeden Ersatz im Vertrag gilt nicht."
+      ],
+      [
+       "Gut zu wissen",
+       "Ersatz gibt es auch bei einer privaten Flatrate. Ein Fahrtkostenzuschuss deckt das nicht ab."
+      ]
+     ],
+     "quelle": "OGH, Entscheidung vom 22.10.2026, 8 ObA 21/26k · Quelle: RIS",
+     "gilt": "Gilt für Österreich",
+     "teilen": "Arbeitest du im Homeoffice? Schick's weiter.",
+     "hashtags": [
+      "#homeoffice",
+      "#arbeitsrecht",
+      "#österreich",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-26",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-28"
+  },
+  {
+   "nr": "016",
+   "status": "geplant",
+   "land": "DE",
+   "bereich": "Nachbarn",
+   "thema": "Nachbarn: Dekohase im Hof",
+   "gericht": "AG München",
+   "datum": "2025-01-02",
+   "aktenzeichen": "172 C 23447/24",
+   "rechtskraft": "rechtskräftig",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "AG München, Pressemitteilung 11/2026",
+     "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/11.php",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 2357621,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Kaputter Dekohase: Muss die Nachbarin zahlen?",
+     "sachverhalt": [
+      "Im Hof eines Mehrfamilienhauses steht eine Hasenfigur im Beet.",
+      "Eines Tages ist der Kopf ab, ein Nachbar hat eine Mitbewohnerin an der Figur gesehen.",
+      "Sie sagt, sie habe nur ihre Katzen eingefangen. Die Besitzerin will 20 Euro."
+     ],
+     "frage": "Muss die Nachbarin zahlen?",
+     "optionen": {
+      "A": "Ja, sie zahlt die 20 Euro.",
+      "B": "Nein, sie wollte nur die Katzen holen."
+     },
+     "ergebnis": "Richtig: Ja, sie zahlt 20 Euro.",
+     "headline": "Streit um 20 Euro – und ein klares Urteil",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Gericht gab der Besitzerin vollständig recht. Die Nachbarin muss die 20 Euro für die kaputte Figur zahlen."
+      ],
+      [
+       "Warum",
+       "Sie bestritt nicht klar, den Hasen beschädigt zu haben. Die Katzen-Erklärung entschuldigte den Schaden nicht."
+      ],
+      [
+       "Gut zu wissen",
+       "Wer vor Gericht etwas abstreitet, muss das konkret tun. Ein vages «wenn, dann» reicht dafür nicht aus."
+      ]
+     ],
+     "quelle": "AG München, Urteil vom 02.01.2025, 172 C 23447/24 (rechtskräftig)",
+     "gilt": "Gilt für Deutschland",
+     "teilen": "Hast du Deko im Garten? Schick's weiter.",
+     "hashtags": [
+      "#nachbarn",
+      "#nachbarschaftsstreit",
+      "#deutschland",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-26",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-29"
+  },
+  {
+   "nr": "017",
+   "status": "geplant",
+   "land": "CH",
+   "bereich": "Wohnen und Miete",
+   "thema": "Wohnen: Airbnb-Verbot",
+   "gericht": "Bundesgericht",
+   "datum": "2026-09-11",
+   "aktenzeichen": "5A_102/2026",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "Bundesgericht 5A_102/2026",
+     "url": "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza://11-09-2026-5A_102-2026&lang=de&type=show_document",
+     "art": "primaer"
+    },
+    {
+     "titel": "Luzerner Zeitung",
+     "url": "https://www.luzernerzeitung.ch/zentralschweiz/stadt-region-luzern/bundesgericht-verbietet-airbnb-vermietung-in-malters-ld.4272829",
+     "art": "hinweis"
+    }
+   ],
+   "richtig": "A",
+   "bild": {
+    "pixabay": 3475656,
+    "pos": "30% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Airbnb im Haus: Dürfen die Nachbarn es verbieten?",
+     "sachverhalt": [
+      "Ein Eigentümer vermietet zwei Wohnungen in einem Terrassenhaus tageweise über Airbnb.",
+      "Die Stockwerkeigentümer verbieten kurze Vermietungen per Mehrheitsbeschluss.",
+      "Er wehrt sich: Für so ein Verbot brauche es die Zustimmung aller."
+     ],
+     "frage": "Gilt das Verbot?",
+     "optionen": {
+      "A": "Ja, die Mehrheit durfte es beschliessen.",
+      "B": "Nein, dafür braucht es alle Stimmen."
+     },
+     "ergebnis": "Richtig: Ja, das Verbot gilt.",
+     "headline": "Airbnb-Verbot im Haus ist gültig",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Bundesgericht weist die Beschwerde ab. Das Verbot bleibt, der Eigentümer zahlt 6000 Franken Gerichtskosten."
+      ],
+      [
+       "Warum",
+       "Tageweise Vermietung gleicht einem Hotel und passt nicht zum Wohnzweck im Reglement. Darum war keine Einstimmigkeit nötig."
+      ],
+      [
+       "Gut zu wissen",
+       "Dauerhaft vermieten bleibt erlaubt. Entscheidend ist das Haus: Hier gab es nur fünf Wohnungen."
+      ]
+     ],
+     "quelle": "Bundesgericht, Urteil vom 11.09.2026, 5A_102/2026",
+     "gilt": "Gilt für die Schweiz",
+     "teilen": "Kennst du jemanden mit einer Airbnb-Wohnung? Schick's weiter.",
+     "hashtags": [
+      "#airbnb",
+      "#stockwerkeigentum",
+      "#schweiz",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-26",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-11-30"
+  },
+  {
+   "nr": "018",
+   "status": "geplant",
+   "land": "AT",
+   "bereich": "Nachbarn",
+   "thema": "Nachbarn: Baumwurzeln an der Grenze",
+   "gericht": "OGH",
+   "datum": "2025-02-27",
+   "aktenzeichen": "8 Ob 3/25m",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "OGH-Kurzfassung 8 Ob 3/25m",
+     "url": "https://www.ogh.gv.at/entscheidungen/entscheidungen-ogh/klage-wegen-vermeintlich-durch-die-wurzeln-der-baeume-der-nachbarin-entstandener-schaeden/",
+     "art": "primaer"
+    },
+    {
+     "titel": "RIS-Volltext",
+     "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20250227_OGH0002_0080OB00003_25M0000_000",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 5096691,
+    "pos": "50% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Wurzeln vom Nachbarbaum: Wer zahlt den Schaden?",
+     "sachverhalt": [
+      "Auf dem Nachbargrundstück stehen Bäume direkt an der Grenze.",
+      "Ein Hausbesitzer sagt, ihre Wurzeln hätten seine Entwässerungsrinne beschädigt.",
+      "Er verlangt über 33’000 Euro Schadenersatz von der Nachbarin."
+     ],
+     "frage": "Muss die Nachbarin zahlen?",
+     "optionen": {
+      "A": "Ja, an der Grenze pflanzen ist verboten.",
+      "B": "Nein, die Gefahr war nicht erkennbar."
+     },
+     "ergebnis": "Richtig: Nein, sie zahlt nicht.",
+     "headline": "Bäume an der Grenze pflanzen ist erlaubt",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Die Klage blieb erfolglos. Der OGH wies die Revision zurück: Die Vorinstanzen folgten der bisherigen Rechtsprechung."
+      ],
+      [
+       "Warum",
+       "Pflanzen an der Grenze ist nicht rechtswidrig. Zahlen muss nur, wer die Gefahr durch Wurzeln erkennen konnte."
+      ],
+      [
+       "Gut zu wissen",
+       "Herüberwachsende Äste und Wurzeln muss man meist dulden – ausser sie werden zur konkreten Gefahr."
+      ]
+     ],
+     "quelle": "OGH, Beschluss vom 27.02.2025, 8 Ob 3/25m · Quelle: RIS",
+     "gilt": "Gilt für Österreich",
+     "teilen": "Hast du Bäume an der Grundstücksgrenze? Schick's weiter.",
+     "hashtags": [
+      "#nachbarn",
+      "#garten",
+      "#österreich",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-26",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-12-01"
+  },
+  {
+   "nr": "019",
+   "status": "geplant",
+   "land": "DE",
+   "bereich": "Einkaufen und Verträge",
+   "thema": "Einkaufen: Kühlschrank-Kulanz",
+   "gericht": "AG München",
+   "datum": "2025-06-06",
+   "aktenzeichen": "172 C 24940/24",
+   "rechtskraft": "rechtskräftig",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "AG München, Pressemitteilung 16/2026",
+     "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/16.php",
+     "art": "primaer"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 6778196,
+    "pos": "35% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Rabatt auf neuen Kühlschrank: Alter darf bleiben?",
+     "sachverhalt": [
+      "Ein Kühlschrank geht kurz nach Ende der Gewährleistung teilweise kaputt.",
+      "Aus Kulanz gibt es 477,56 Euro Rabatt auf ein neues Gerät.",
+      "Bei der Lieferung will der Käufer den alten trotzdem behalten, er läuft ja noch halbwegs."
+     ],
+     "frage": "Darf er den alten behalten?",
+     "optionen": {
+      "A": "Ja, der alte gehört ja ihm.",
+      "B": "Nein, sonst fällt der Rabatt weg."
+     },
+     "ergebnis": "Richtig: Nein, sonst kein Rabatt.",
+     "headline": "Kulanz-Rabatt gibt es nur im Tausch",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Der Käufer muss die 477,56 Euro nachzahlen, weil er den alten Kühlschrank nicht herausgegeben hat."
+      ],
+      [
+       "Warum",
+       "Auf dem Beleg stand ausdrücklich «Austausch». Wer ein defektes Gerät ersetzt bekommt, darf nicht mit zwei Kühlschränken rechnen."
+      ],
+      [
+       "Die Rechnung",
+       "Der neue kostet 1299 Euro. Mit Rückgabe hätte er 821,44 Euro gezahlt, so zahlt er den vollen Preis."
+      ]
+     ],
+     "quelle": "AG München, Urteil vom 06.06.2025, 172 C 24940/24 (rechtskräftig)",
+     "gilt": "Gilt für Deutschland",
+     "teilen": "Steht bei dir ein alter Kühlschrank? Schick's weiter.",
+     "hashtags": [
+      "#kulanz",
+      "#verbraucherrecht",
+      "#deutschland",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-26",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null,
+   "geplant_fuer": "2026-12-02"
+  },
+  {
+   "nr": "020",
+   "status": "vorrat",
+   "land": "CH",
+   "bereich": "Tiere",
+   "thema": "Tiere: Verbotener Rassetyp",
+   "gericht": "Bundesgericht",
+   "datum": "2025-10-14",
+   "aktenzeichen": "2C_436/2023",
+   "rechtskraft": "Höchstgericht",
+   "ecli": null,
+   "quellen": [
+    {
+     "titel": "Bundesgericht 2C_436/2023",
+     "url": "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza://14-10-2025-2C_436-2023&lang=de&type=show_document",
+     "art": "primaer"
+    },
+    {
+     "titel": "Beobachter",
+     "url": "https://www.beobachter.ch/gesetze-recht/bundesgericht-trennt-hund-und-herrchen-895968",
+     "art": "hinweis"
+    }
+   ],
+   "richtig": "B",
+   "bild": {
+    "pixabay": 4071702,
+    "pos": "45% 50%"
+   },
+   "texte": {
+    "de": {
+     "titel": "Verbotener Hundetyp: Reicht ein Maulkorb?",
+     "sachverhalt": [
+      "Ein Mann kauft einen Mischlingshund und lebt mit ihm im Kanton Zürich.",
+      "Ein Amtstierarzt stuft das Tier nach dem Aussehen als verbotenen Rassetyp ein.",
+      "Laut Halter ist der Hund nie aufgefallen. Er will ihn mit Maulkorb behalten."
+     ],
+     "frage": "Darf der Hund in Zürich bleiben?",
+     "optionen": {
+      "A": "Ja, mit Maulkorb und Leine.",
+      "B": "Nein, er muss aus dem Kanton weg."
+     },
+     "ergebnis": "Richtig: Nein, er muss weg.",
+     "headline": "Verbotener Rassetyp: Maulkorb reicht nicht",
+     "punkte": [
+      [
+       "Das Urteil",
+       "Das Bundesgericht weist die Beschwerde ab. Der Hund muss in einen anderen Kanton, oder der Halter zieht mit ihm weg."
+      ],
+      [
+       "Warum",
+       "Zürich verbietet bestimmte Rassetypen ganz. Maulkorb und Leine würden dieses Ziel des Gesetzes unterlaufen."
+      ],
+      [
+       "Gut zu wissen",
+       "Wer einen Hund kauft, muss die Rasse selbst abklären. Der Halter trägt 2000 Franken Gerichtskosten."
+      ]
+     ],
+     "quelle": "Bundesgericht, Urteil vom 14.10.2025, 2C_436/2023",
+     "gilt": "Gilt für die Schweiz",
+     "teilen": "Hast du einen Hund? Schick's weiter.",
+     "hashtags": [
+      "#hund",
+      "#hundehalter",
+      "#schweiz",
+      "#urteil",
+      "#rechtgehabt"
+     ]
+    }
+   },
+   "geprueft": [
+    {
+     "datum": "2026-11-26",
+     "lauf": "woche (Primärquelle gelesen)"
+    }
+   ],
+   "verwendet_am": null
   }
  ]
 }

@@ -1,0 +1,158 @@
+{
+ "datum": "2026-12-02",
+ "thema": "Einkaufen: Kühlschrank-Kulanz",
+ "land": "DE",
+ "quellen": [
+  {
+   "titel": "AG München, Pressemitteilung 16/2026",
+   "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/16.php",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 4.0,
+    "folie": {
+     "layout": "frage",
+     "bild": "../../img/6778196.jpg",
+     "bild_pos": "35% 50%",
+     "position": "unten",
+     "label": "Fall 019",
+     "badge": "DE",
+     "frage": "Rabatt auf neuen Kühlschrank: Alter darf bleiben?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, der alte gehört ja ihm."
+      },
+      {
+       "key": "B",
+       "text": "Nein, sonst fällt der Rabatt weg."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   },
+   {
+    "dauer": 6.0,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Fall 019",
+     "badge": "DE",
+     "sachverhalt": [
+      "Ein Kühlschrank geht kurz nach Ende der Gewährleistung teilweise kaputt.",
+      "Aus Kulanz gibt es 477,56 Euro Rabatt auf ein neues Gerät.",
+      "Bei der Lieferung will der Käufer den alten trotzdem behalten, er läuft ja noch halbwegs."
+     ],
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, der alte gehört ja ihm."
+      },
+      {
+       "key": "B",
+       "text": "Nein, sonst fällt der Rabatt weg."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "DE",
+    "label": "Auflösung · Fall 019",
+    "ergebnis": {
+     "key": "B",
+     "text": "Richtig: Nein, sonst kein Rabatt."
+    },
+    "headline": "Kulanz-Rabatt gibt es nur im Tausch",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Der Käufer muss die 477,56 Euro nachzahlen, weil er den alten Kühlschrank nicht herausgegeben hat."
+     ],
+     [
+      "Warum",
+      "Auf dem Beleg stand ausdrücklich «Austausch». Wer ein defektes Gerät ersetzt bekommt, darf nicht mit zwei Kühlschränken rechnen."
+     ],
+     [
+      "Die Rechnung",
+      "Der neue kostet 1299 Euro. Mit Rückgabe hätte er 821,44 Euro gezahlt, so zahlt er den vollen Preis."
+     ]
+    ],
+    "quelle": "AG München, Urteil vom 06.06.2025, 172 C 24940/24 (rechtskräftig)",
+    "hinweis": "Gilt für Deutschland · Keine Rechtsberatung",
+    "bild": "../../img/6778196.jpg",
+    "bild_pos": "35% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/6778196.jpg",
+    "bild_pos": "35% 50%",
+    "position": "unten",
+    "label": "Fall 019",
+    "badge": "DE",
+    "titel": "Rabatt auf neuen Kühlschrank: Alter darf bleiben?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 019",
+    "badge": "DE",
+    "sachverhalt": [
+     "Ein Kühlschrank geht kurz nach Ende der Gewährleistung teilweise kaputt.",
+     "Aus Kulanz gibt es 477,56 Euro Rabatt auf ein neues Gerät.",
+     "Bei der Lieferung will der Käufer den alten trotzdem behalten, er läuft ja noch halbwegs."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 019",
+    "badge": "DE",
+    "frage": "Darf er den alten behalten?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, der alte gehört ja ihm."
+     },
+     {
+      "key": "B",
+      "text": "Nein, sonst fällt der Rabatt weg."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Rabatt auf neuen Kühlschrank – darf er den alten behalten?\nA: Ja, der alte gehört ja ihm.\nB: Nein, sonst fällt der Rabatt weg.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nSteht bei dir ein alter Kühlschrank? Schick's weiter.\n\nFall 019: AG München, Urteil vom 06.06.2025, 172 C 24940/24 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#kulanz #verbraucherrecht #deutschland #urteil"
+}

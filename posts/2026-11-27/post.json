@@ -1,0 +1,158 @@
+{
+ "datum": "2026-11-27",
+ "thema": "Tiere: Hunde und Paketbote",
+ "land": "DE",
+ "quellen": [
+  {
+   "titel": "AG München, Pressemitteilung 14/2026",
+   "url": "https://www.justiz.bayern.de/gerichte-und-behoerden/amtsgerichte/muenchen/presse/2026/14.php",
+   "art": "primaer"
+  }
+ ],
+ "reel": {
+  "datei": "reel.mp4",
+  "cover": "cover.jpg",
+  "schleife": true,
+  "szenen": [
+   {
+    "dauer": 4.0,
+    "folie": {
+     "layout": "frage",
+     "bild": "../../img/4668593.jpg",
+     "bild_pos": "40% 50%",
+     "position": "unten",
+     "label": "Fall 014",
+     "badge": "DE",
+     "frage": "Paketbote flüchtet aufs Auto: Wer zahlt?",
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, er hat das Auto beschädigt."
+      },
+      {
+       "key": "B",
+       "text": "Nein, die Hunde haben ihn erschreckt."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   },
+   {
+    "dauer": 6.0,
+    "folie": {
+     "layout": "frage",
+     "thema": "hell",
+     "label": "Fall 014",
+     "badge": "DE",
+     "sachverhalt": [
+      "Ein Paketbote klingelt, die Haustür geht auf.",
+      "Drei Hunde rennen bellend auf ihn zu, er rettet sich auf die Motorhaube eines teuren Geländewagens.",
+      "Der Hundehalter verlangt von Bote und Firma rund 2700 Euro für eine neue Lackierung."
+     ],
+     "optionen": [
+      {
+       "key": "A",
+       "text": "Ja, er hat das Auto beschädigt."
+      },
+      {
+       "key": "B",
+       "text": "Nein, die Hunde haben ihn erschreckt."
+      }
+     ],
+     "wortmarke": false,
+     "aufruf": "Kommentiere A oder B"
+    }
+   }
+  ]
+ },
+ "bilder": [
+  {
+   "datei": "dm_aufloesung.png",
+   "format": "karte_lang",
+   "folie": {
+    "layout": "aufloesung",
+    "thema": "hell",
+    "badge": "DE",
+    "label": "Auflösung · Fall 014",
+    "ergebnis": {
+     "key": "B",
+     "text": "Richtig: Nein, er muss nicht zahlen."
+    },
+    "headline": "Wer Hunde hält, haftet auch für den Schreck",
+    "punkte": [
+     [
+      "Das Urteil",
+      "Das Gericht wies die Klage des Hundehalters ab. Weder der Bote noch seine Firma müssen zahlen."
+     ],
+     [
+      "Warum",
+      "Bellen und Zurennen ist eine typische Tiergefahr. Die Flucht war verständlich, die Haftung des Tierhalters überwiegt klar."
+     ],
+     [
+      "Gut zu wissen",
+      "Die Hunde müssen nicht aggressiv sein, ein Schreck reicht. Ob die Kratzer vom Vorfall stammen, war zudem fraglich."
+     ]
+    ],
+    "quelle": "AG München, Urteil vom 12.02.2026, 223 C 6838/25 (rechtskräftig)",
+    "hinweis": "Gilt für Deutschland · Keine Rechtsberatung",
+    "bild": "../../img/4668593.jpg",
+    "bild_pos": "40% 50%"
+   }
+  },
+  {
+   "datei": "story_1_titel.png",
+   "format": "story",
+   "folie": {
+    "layout": "titel",
+    "bild": "../../img/4668593.jpg",
+    "bild_pos": "40% 50%",
+    "position": "unten",
+    "label": "Fall 014",
+    "badge": "DE",
+    "titel": "Paketbote flüchtet aufs Auto: Wer zahlt?",
+    "unter": "Wie hat das Gericht entschieden?"
+   }
+  },
+  {
+   "datei": "story_2_fall.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "hell",
+    "label": "Fall 014",
+    "badge": "DE",
+    "sachverhalt": [
+     "Ein Paketbote klingelt, die Haustür geht auf.",
+     "Drei Hunde rennen bellend auf ihn zu, er rettet sich auf die Motorhaube eines teuren Geländewagens.",
+     "Der Hundehalter verlangt von Bote und Firma rund 2700 Euro für eine neue Lackierung."
+    ],
+    "wortmarke": false
+   }
+  },
+  {
+   "datei": "story_3_frage.png",
+   "format": "story",
+   "folie": {
+    "layout": "frage",
+    "thema": "dunkel",
+    "label": "Fall 014",
+    "badge": "DE",
+    "frage": "Muss der Paketbote zahlen?",
+    "optionen": [
+     {
+      "key": "A",
+      "text": "Ja, er hat das Auto beschädigt."
+     },
+     {
+      "key": "B",
+      "text": "Nein, die Hunde haben ihn erschreckt."
+     }
+    ],
+    "wortmarke": false,
+    "aufruf": "Antworte mit A oder B – die Auflösung kommt per DM."
+   }
+  }
+ ],
+ "bildunterschrift": "Paketbote flüchtet aufs Auto – muss der Paketbote zahlen?\nA: Ja, er hat das Auto beschädigt.\nB: Nein, die Hunde haben ihn erschreckt.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nHast du einen Hund? Schick's weiter.\n\nFall 014: AG München, Urteil vom 12.02.2026, 223 C 6838/25 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#hundehalter #paketbote #deutschland #urteil"
+}
