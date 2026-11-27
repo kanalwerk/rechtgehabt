@@ -10,61 +10,35 @@
   }
  ],
  "reel": {
+  "art": "hook",
   "datei": "reel.mp4",
   "cover": "cover.jpg",
-  "schleife": true,
-  "szenen": [
-   {
-    "dauer": 4.0,
-    "folie": {
-     "layout": "frage",
-     "bild": "../../img/2357621.jpg",
-     "bild_pos": "50% 50%",
-     "position": "unten",
-     "label": "Fall 016",
-     "badge": "DE",
-     "frage": "Kaputter Dekohase: Muss die Nachbarin zahlen?",
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, sie zahlt die 20 Euro."
-      },
-      {
-       "key": "B",
-       "text": "Nein, sie wollte nur die Katzen holen."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   },
-   {
-    "dauer": 6.0,
-    "folie": {
-     "layout": "frage",
-     "thema": "hell",
-     "label": "Fall 016",
-     "badge": "DE",
-     "sachverhalt": [
-      "Im Hof eines Mehrfamilienhauses steht eine Hasenfigur im Beet.",
-      "Eines Tages ist der Kopf ab, ein Nachbar hat eine Mitbewohnerin an der Figur gesehen.",
-      "Sie sagt, sie habe nur ihre Katzen eingefangen. Die Besitzerin will 20 Euro."
-     ],
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, sie zahlt die 20 Euro."
-      },
-      {
-       "key": "B",
-       "text": "Nein, sie wollte nur die Katzen holen."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   }
-  ]
+  "nr": "016",
+  "land": "DE",
+  "bild": "../../img/2357621.jpg",
+  "bild_pos": "50% 50%",
+  "vor": "Ab vor Gericht",
+  "gross": "Streit um [20 €] für einen Dekohasen",
+  "stempel": "KOPF AB!",
+  "zeilen": [
+   [
+    "🐇",
+    "Im Hof steht eine Hasenfigur. Eines Tages ist der [Kopf ab]."
+   ],
+   [
+    "👀",
+    "Ein Nachbar hat eine Mitbewohnerin an der Figur gesehen."
+   ],
+   [
+    "🐈‍⬛",
+    "Diese sagt entrüstet: «Ich wollte nur meine Katzen einfangen!»"
+   ]
+  ],
+  "frage": "Muss sie die 20 € zahlen?",
+  "optionen": {
+   "A": "Ja, sie muss alles bezahlen.",
+   "B": "Nein, sie hat nur ihre Katzen geholt."
+  }
  },
  "bilder": [
   {
@@ -138,15 +112,15 @@
     "thema": "dunkel",
     "label": "Fall 016",
     "badge": "DE",
-    "frage": "Muss die Nachbarin zahlen?",
+    "frage": "Muss sie die 20 € zahlen?",
     "optionen": [
      {
       "key": "A",
-      "text": "Ja, sie zahlt die 20 Euro."
+      "text": "Ja, sie muss alles bezahlen."
      },
      {
       "key": "B",
-      "text": "Nein, sie wollte nur die Katzen holen."
+      "text": "Nein, sie hat nur ihre Katzen geholt."
      }
     ],
     "wortmarke": false,
@@ -154,5 +128,5 @@
    }
   }
  ],
- "bildunterschrift": "Kaputter Dekohase – muss die Nachbarin zahlen?\nA: Ja, sie zahlt die 20 Euro.\nB: Nein, sie wollte nur die Katzen holen.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nHast du Deko im Garten? Schick's weiter.\n\nFall 016: AG München, Urteil vom 02.01.2025, 172 C 23447/24 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#nachbarn #nachbarschaftsstreit #deutschland #urteil"
+ "bildunterschrift": "Kaputter Dekohase – muss sie die 20 € zahlen?\nA: Ja, sie muss alles bezahlen.\nB: Nein, sie hat nur ihre Katzen geholt.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nHast du Deko im Garten? Schick's weiter.\n\nFall 016: AG München, Urteil vom 02.01.2025, 172 C 23447/24 (rechtskräftig) · Gilt für Deutschland · Keine Rechtsberatung · Mit KI erstellt\n#nachbarn #nachbarschaftsstreit #deutschland #urteil"
 }

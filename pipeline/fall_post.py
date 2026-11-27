@@ -3,7 +3,8 @@
   python3 pipeline/fall_post.py <nr> <JJJJ-MM-TT>
 Schreibt posts/<datum>/post.json (Reel, DM-Auflösungskarte, 3 Story-Bilder, Bildunterschrift),
 dm/fall/<nr>-A.json, -B.json (auch ohne führende Nullen) und setzt im Fall status «geplant» + geplant_fuer.
-Danach rendern: python3 pipeline/rendern.py posts/<datum>/post.json <out> --design design.json [--audio musik.wav]
+Danach rendern: python3 pipeline/rendern.py posts/<datum>/post.json <out> --design design.json --ohne-reel
+und das Reel: python3 pipeline/reel_hook.py posts/<datum>/post.json <out> --audio musik.wav (Fälle mit texte.de.reel)
 und karten/<nr>/aufloesung.png aus <out>/dm_aufloesung.png kopieren.
 """
 import json
@@ -52,12 +53,19 @@ def post(f, datum):
                 "aufruf": "Kommentiere A oder B"}
     sv_kurz = {"layout": "frage", "thema": "hell", "label": f"Fall {nr}", "badge": land,
                "sachverhalt": t["sachverhalt"], "optionen": opt, "wortmarke": False}
+    if t.get("reel"):  # seit 27.11.2026: Reel mit Einstieg, Stempel und Emojis -> pipeline/reel_hook.py
+        h = t["reel"]
+        reel = {"art": "hook", "datei": "reel.mp4", "cover": "cover.jpg", "nr": nr, "land": land, "bild": bild,
+                "bild_pos": pos, "vor": h.get("vor", "Ab vor Gericht"), "gross": h["gross"], "stempel": h["stempel"],
+                "zeilen": h["zeilen"], "frage": t["frage"], "optionen": t["optionen"]}
     sv_dauer = 6.6 if sum(len(s) for s in t["sachverhalt"]) > 240 else 6.0
+    if not t.get("reel"):
+        reel = {"datei": "reel.mp4", "cover": "cover.jpg", "schleife": True, "szenen": [
+            {"dauer": 4.0, "folie": einstieg},
+            {"dauer": sv_dauer, "folie": dict(sv_kurz, aufruf="Kommentiere A oder B")}]}
     return {
         "datum": datum, "thema": f["thema"], "land": land, "quellen": f["quellen"],
-        "reel": {"datei": "reel.mp4", "cover": "cover.jpg", "schleife": True, "szenen": [
-            {"dauer": 4.0, "folie": einstieg},
-            {"dauer": sv_dauer, "folie": dict(sv_kurz, aufruf="Kommentiere A oder B")}]},
+        "reel": reel,
         "bilder": [
             {"datei": "dm_aufloesung.png", "format": "karte_lang", "folie": {
                 "layout": "aufloesung", "thema": "hell", "badge": land, "label": f"Auflösung · Fall {nr}",

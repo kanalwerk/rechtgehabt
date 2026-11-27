@@ -15,61 +15,35 @@
   }
  ],
  "reel": {
+  "art": "hook",
   "datei": "reel.mp4",
   "cover": "cover.jpg",
-  "schleife": true,
-  "szenen": [
-   {
-    "dauer": 4.0,
-    "folie": {
-     "layout": "frage",
-     "bild": "../../img/3475656.jpg",
-     "bild_pos": "30% 50%",
-     "position": "unten",
-     "label": "Fall 017",
-     "badge": "CH",
-     "frage": "Airbnb im Haus: Dürfen die Nachbarn es verbieten?",
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, die Mehrheit durfte es beschliessen."
-      },
-      {
-       "key": "B",
-       "text": "Nein, dafür braucht es alle Stimmen."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   },
-   {
-    "dauer": 6.0,
-    "folie": {
-     "layout": "frage",
-     "thema": "hell",
-     "label": "Fall 017",
-     "badge": "CH",
-     "sachverhalt": [
-      "Ein Eigentümer vermietet zwei Wohnungen in einem Terrassenhaus tageweise über Airbnb.",
-      "Die Stockwerkeigentümer verbieten kurze Vermietungen per Mehrheitsbeschluss.",
-      "Er wehrt sich: Für so ein Verbot brauche es die Zustimmung aller."
-     ],
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, die Mehrheit durfte es beschliessen."
-      },
-      {
-       "key": "B",
-       "text": "Nein, dafür braucht es alle Stimmen."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   }
-  ]
+  "nr": "017",
+  "land": "CH",
+  "bild": "../../img/3475656.jpg",
+  "bild_pos": "30% 50%",
+  "vor": "Ab vor Gericht",
+  "gross": "[Airbnb] im Haus: Dürfen die Nachbarn es verbieten?",
+  "stempel": "VERBOTEN!",
+  "zeilen": [
+   [
+    "🏢",
+    "Ein Eigentümer vermietet zwei Wohnungen im Haus tageweise über [Airbnb]."
+   ],
+   [
+    "✋",
+    "Die anderen Eigentümer verbieten das per [Mehrheitsbeschluss]."
+   ],
+   [
+    "⚖️",
+    "Er wehrt sich: «Für ein Verbot müssten alle zustimmen!»"
+   ]
+  ],
+  "frage": "Gilt das Verbot?",
+  "optionen": {
+   "A": "Ja, die Mehrheit durfte es beschliessen.",
+   "B": "Nein, dafür braucht es alle Stimmen."
+  }
  },
  "bilder": [
   {

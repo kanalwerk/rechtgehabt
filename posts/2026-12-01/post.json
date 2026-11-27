@@ -15,61 +15,35 @@
   }
  ],
  "reel": {
+  "art": "hook",
   "datei": "reel.mp4",
   "cover": "cover.jpg",
-  "schleife": true,
-  "szenen": [
-   {
-    "dauer": 4.0,
-    "folie": {
-     "layout": "frage",
-     "bild": "../../img/5096691.jpg",
-     "bild_pos": "50% 50%",
-     "position": "unten",
-     "label": "Fall 018",
-     "badge": "AT",
-     "frage": "Wurzeln vom Nachbarbaum: Wer zahlt den Schaden?",
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, an der Grenze pflanzen ist verboten."
-      },
-      {
-       "key": "B",
-       "text": "Nein, die Gefahr war nicht erkennbar."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   },
-   {
-    "dauer": 6.0,
-    "folie": {
-     "layout": "frage",
-     "thema": "hell",
-     "label": "Fall 018",
-     "badge": "AT",
-     "sachverhalt": [
-      "Auf dem Nachbargrundstück stehen Bäume direkt an der Grenze.",
-      "Ein Hausbesitzer sagt, ihre Wurzeln hätten seine Entwässerungsrinne beschädigt.",
-      "Er verlangt über 33’000 Euro Schadenersatz von der Nachbarin."
-     ],
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, an der Grenze pflanzen ist verboten."
-      },
-      {
-       "key": "B",
-       "text": "Nein, die Gefahr war nicht erkennbar."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   }
-  ]
+  "nr": "018",
+  "land": "AT",
+  "bild": "../../img/5096691.jpg",
+  "bild_pos": "50% 50%",
+  "vor": "Ab vor Gericht",
+  "gross": "[33’000 €] Schaden durch den Nachbarbaum?",
+  "stempel": "WURZEL-ALARM!",
+  "zeilen": [
+   [
+    "🌳",
+    "Bei der Nachbarin stehen Bäume direkt an der [Grenze]."
+   ],
+   [
+    "🌱",
+    "Ein Hausbesitzer sagt: Die Wurzeln haben meine Entwässerungsrinne beschädigt."
+   ],
+   [
+    "💶",
+    "Er verlangt von der Nachbarin über [33’000 Euro]."
+   ]
+  ],
+  "frage": "Muss die Nachbarin zahlen?",
+  "optionen": {
+   "A": "Ja, die Bäume stehen zu nah an der Grenze.",
+   "B": "Nein, die Gefahr war nicht erkennbar."
+  }
  },
  "bilder": [
   {
@@ -147,7 +121,7 @@
     "optionen": [
      {
       "key": "A",
-      "text": "Ja, an der Grenze pflanzen ist verboten."
+      "text": "Ja, die Bäume stehen zu nah an der Grenze."
      },
      {
       "key": "B",
@@ -159,5 +133,5 @@
    }
   }
  ],
- "bildunterschrift": "Wurzeln vom Nachbarbaum – muss die Nachbarin zahlen?\nA: Ja, an der Grenze pflanzen ist verboten.\nB: Nein, die Gefahr war nicht erkennbar.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nHast du Bäume an der Grundstücksgrenze? Schick's weiter.\n\nFall 018: OGH, Beschluss vom 27.02.2025, 8 Ob 3/25m · Quelle: RIS · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#nachbarn #garten #österreich #urteil"
+ "bildunterschrift": "Wurzeln vom Nachbarbaum – muss die Nachbarin zahlen?\nA: Ja, die Bäume stehen zu nah an der Grenze.\nB: Nein, die Gefahr war nicht erkennbar.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nHast du Bäume an der Grundstücksgrenze? Schick's weiter.\n\nFall 018: OGH, Beschluss vom 27.02.2025, 8 Ob 3/25m · Quelle: RIS · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#nachbarn #garten #österreich #urteil"
 }

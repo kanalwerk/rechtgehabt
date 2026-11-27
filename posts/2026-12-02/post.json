@@ -10,61 +10,35 @@
   }
  ],
  "reel": {
+  "art": "hook",
   "datei": "reel.mp4",
   "cover": "cover.jpg",
-  "schleife": true,
-  "szenen": [
-   {
-    "dauer": 4.0,
-    "folie": {
-     "layout": "frage",
-     "bild": "../../img/6778196.jpg",
-     "bild_pos": "35% 50%",
-     "position": "unten",
-     "label": "Fall 019",
-     "badge": "DE",
-     "frage": "Rabatt auf neuen Kühlschrank: Alter darf bleiben?",
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, der alte gehört ja ihm."
-      },
-      {
-       "key": "B",
-       "text": "Nein, sonst fällt der Rabatt weg."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   },
-   {
-    "dauer": 6.0,
-    "folie": {
-     "layout": "frage",
-     "thema": "hell",
-     "label": "Fall 019",
-     "badge": "DE",
-     "sachverhalt": [
-      "Ein Kühlschrank geht kurz nach Ende der Gewährleistung teilweise kaputt.",
-      "Aus Kulanz gibt es 477,56 Euro Rabatt auf ein neues Gerät.",
-      "Bei der Lieferung will der Käufer den alten trotzdem behalten, er läuft ja noch halbwegs."
-     ],
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, der alte gehört ja ihm."
-      },
-      {
-       "key": "B",
-       "text": "Nein, sonst fällt der Rabatt weg."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   }
-  ]
+  "nr": "019",
+  "land": "DE",
+  "bild": "../../img/6778196.jpg",
+  "bild_pos": "35% 50%",
+  "vor": "Ab vor Gericht",
+  "gross": "[477 €] Rabatt – und den alten Kühlschrank behalten?",
+  "stempel": "DOPPELT?!",
+  "zeilen": [
+   [
+    "🧊",
+    "Ein Kühlschrank geht kurz nach Ende der Gewährleistung teilweise kaputt."
+   ],
+   [
+    "🏷️",
+    "Aus Kulanz gibt es [477,56 Euro] Rabatt auf ein neues Gerät."
+   ],
+   [
+    "🚚",
+    "Bei der Lieferung sagt der Käufer: «Den alten behalte ich, der läuft ja noch!»"
+   ]
+  ],
+  "frage": "Darf er den alten behalten?",
+  "optionen": {
+   "A": "Ja, der alte gehört ja ihm.",
+   "B": "Nein, sonst fällt der Rabatt weg."
+  }
  },
  "bilder": [
   {

@@ -15,61 +15,35 @@
   }
  ],
  "reel": {
+  "art": "hook",
   "datei": "reel.mp4",
   "cover": "cover.jpg",
-  "schleife": true,
-  "szenen": [
-   {
-    "dauer": 4.0,
-    "folie": {
-     "layout": "frage",
-     "bild": "../../img/2846221.jpg",
-     "bild_pos": "50% 50%",
-     "position": "unten",
-     "label": "Fall 015",
-     "badge": "AT",
-     "frage": "Muss die Firma dein Homeoffice-Internet zahlen?",
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, Internet ist ein Arbeitsmittel."
-      },
-      {
-       "key": "B",
-       "text": "Nein, Internet hat man privat sowieso."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   },
-   {
-    "dauer": 6.0,
-    "folie": {
-     "layout": "frage",
-     "thema": "hell",
-     "label": "Fall 015",
-     "badge": "AT",
-     "sachverhalt": [
-      "Eine Firma lässt viele Angestellte regelmässig im Homeoffice arbeiten.",
-      "Den Laptop stellt sie, die Kosten fürs Internet übernimmt sie nicht.",
-      "Im Vertrag steht sogar, dass dafür kein Ersatz verlangt werden kann."
-     ],
-     "optionen": [
-      {
-       "key": "A",
-       "text": "Ja, Internet ist ein Arbeitsmittel."
-      },
-      {
-       "key": "B",
-       "text": "Nein, Internet hat man privat sowieso."
-      }
-     ],
-     "wortmarke": false,
-     "aufruf": "Kommentiere A oder B"
-    }
-   }
-  ]
+  "nr": "015",
+  "land": "AT",
+  "bild": "../../img/2846221.jpg",
+  "bild_pos": "50% 50%",
+  "vor": "Ab vor Gericht",
+  "gross": "Homeoffice: Wer zahlt dein [Internet]?",
+  "stempel": "KEIN ERSATZ!",
+  "zeilen": [
+   [
+    "🏠",
+    "Eine Firma lässt viele Angestellte regelmässig im [Homeoffice] arbeiten."
+   ],
+   [
+    "💻",
+    "Den Laptop stellt sie. Das Internet zahlen die Angestellten selbst."
+   ],
+   [
+    "📄",
+    "Im Vertrag steht sogar: Dafür gibt es [keinen Ersatz]."
+   ]
+  ],
+  "frage": "Muss die Firma das Internet mitzahlen?",
+  "optionen": {
+   "A": "Ja, Internet ist ein Arbeitsmittel.",
+   "B": "Nein, der Vertrag schliesst es aus."
+  }
  },
  "bilder": [
   {
@@ -143,7 +117,7 @@
     "thema": "dunkel",
     "label": "Fall 015",
     "badge": "AT",
-    "frage": "Zahlt die Firma das Internet?",
+    "frage": "Muss die Firma das Internet mitzahlen?",
     "optionen": [
      {
       "key": "A",
@@ -151,7 +125,7 @@
      },
      {
       "key": "B",
-      "text": "Nein, Internet hat man privat sowieso."
+      "text": "Nein, der Vertrag schliesst es aus."
      }
     ],
     "wortmarke": false,
@@ -159,5 +133,5 @@
    }
   }
  ],
- "bildunterschrift": "Muss die Firma dein Homeoffice-Internet zahlen? – zahlt die Firma das Internet?\nA: Ja, Internet ist ein Arbeitsmittel.\nB: Nein, Internet hat man privat sowieso.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nArbeitest du im Homeoffice? Schick's weiter.\n\nFall 015: OGH, Entscheidung vom 22.10.2026, 8 ObA 21/26k · Quelle: RIS · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#homeoffice #arbeitsrecht #österreich #urteil"
+ "bildunterschrift": "Muss die Firma dein Homeoffice-Internet zahlen? – muss die Firma das Internet mitzahlen?\nA: Ja, Internet ist ein Arbeitsmittel.\nB: Nein, der Vertrag schliesst es aus.\n\nKommentiere A oder B – die Auflösung kommt sofort per DM.\nArbeitest du im Homeoffice? Schick's weiter.\n\nFall 015: OGH, Entscheidung vom 22.10.2026, 8 ObA 21/26k · Quelle: RIS · Gilt für Österreich · Keine Rechtsberatung · Mit KI erstellt\n#homeoffice #arbeitsrecht #österreich #urteil"
 }

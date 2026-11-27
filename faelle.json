@@ -1081,10 +1081,10 @@
       "Den Laptop stellt sie, die Kosten fürs Internet übernimmt sie nicht.",
       "Im Vertrag steht sogar, dass dafür kein Ersatz verlangt werden kann."
      ],
-     "frage": "Zahlt die Firma das Internet?",
+     "frage": "Muss die Firma das Internet mitzahlen?",
      "optionen": {
       "A": "Ja, Internet ist ein Arbeitsmittel.",
-      "B": "Nein, Internet hat man privat sowieso."
+      "B": "Nein, der Vertrag schliesst es aus."
      },
      "ergebnis": "Richtig: Ja, die Firma zahlt mit.",
      "headline": "Homeoffice: Die Firma zahlt das Internet mit",
@@ -1111,7 +1111,25 @@
       "#österreich",
       "#urteil",
       "#rechtgehabt"
-     ]
+     ],
+     "reel": {
+      "gross": "Homeoffice: Wer zahlt dein [Internet]?",
+      "stempel": "KEIN ERSATZ!",
+      "zeilen": [
+       [
+        "🏠",
+        "Eine Firma lässt viele Angestellte regelmässig im [Homeoffice] arbeiten."
+       ],
+       [
+        "💻",
+        "Den Laptop stellt sie. Das Internet zahlen die Angestellten selbst."
+       ],
+       [
+        "📄",
+        "Im Vertrag steht sogar: Dafür gibt es [keinen Ersatz]."
+       ]
+      ]
+     }
     }
    },
    "geprueft": [
@@ -1154,10 +1172,10 @@
       "Eines Tages ist der Kopf ab, ein Nachbar hat eine Mitbewohnerin an der Figur gesehen.",
       "Sie sagt, sie habe nur ihre Katzen eingefangen. Die Besitzerin will 20 Euro."
      ],
-     "frage": "Muss die Nachbarin zahlen?",
+     "frage": "Muss sie die 20 € zahlen?",
      "optionen": {
-      "A": "Ja, sie zahlt die 20 Euro.",
-      "B": "Nein, sie wollte nur die Katzen holen."
+      "A": "Ja, sie muss alles bezahlen.",
+      "B": "Nein, sie hat nur ihre Katzen geholt."
      },
      "ergebnis": "Richtig: Ja, sie zahlt 20 Euro.",
      "headline": "Streit um 20 Euro – und ein klares Urteil",
@@ -1184,7 +1202,25 @@
       "#deutschland",
       "#urteil",
       "#rechtgehabt"
-     ]
+     ],
+     "reel": {
+      "gross": "Streit um [20 €] für einen Dekohasen",
+      "stempel": "KOPF AB!",
+      "zeilen": [
+       [
+        "🐇",
+        "Im Hof steht eine Hasenfigur. Eines Tages ist der [Kopf ab]."
+       ],
+       [
+        "👀",
+        "Ein Nachbar hat eine Mitbewohnerin an der Figur gesehen."
+       ],
+       [
+        "🐈‍⬛",
+        "Diese sagt entrüstet: «Ich wollte nur meine Katzen einfangen!»"
+       ]
+      ]
+     }
     }
    },
    "geprueft": [
@@ -1262,7 +1298,25 @@
       "#schweiz",
       "#urteil",
       "#rechtgehabt"
-     ]
+     ],
+     "reel": {
+      "gross": "[Airbnb] im Haus: Dürfen die Nachbarn es verbieten?",
+      "stempel": "VERBOTEN!",
+      "zeilen": [
+       [
+        "🏢",
+        "Ein Eigentümer vermietet zwei Wohnungen im Haus tageweise über [Airbnb]."
+       ],
+       [
+        "✋",
+        "Die anderen Eigentümer verbieten das per [Mehrheitsbeschluss]."
+       ],
+       [
+        "⚖️",
+        "Er wehrt sich: «Für ein Verbot müssten alle zustimmen!»"
+       ]
+      ]
+     }
     }
    },
    "geprueft": [
@@ -1312,7 +1366,7 @@
      ],
      "frage": "Muss die Nachbarin zahlen?",
      "optionen": {
-      "A": "Ja, an der Grenze pflanzen ist verboten.",
+      "A": "Ja, die Bäume stehen zu nah an der Grenze.",
       "B": "Nein, die Gefahr war nicht erkennbar."
      },
      "ergebnis": "Richtig: Nein, sie zahlt nicht.",
@@ -1340,7 +1394,25 @@
       "#österreich",
       "#urteil",
       "#rechtgehabt"
-     ]
+     ],
+     "reel": {
+      "gross": "[33’000 €] Schaden durch den Nachbarbaum?",
+      "stempel": "WURZEL-ALARM!",
+      "zeilen": [
+       [
+        "🌳",
+        "Bei der Nachbarin stehen Bäume direkt an der [Grenze]."
+       ],
+       [
+        "🌱",
+        "Ein Hausbesitzer sagt: Die Wurzeln haben meine Entwässerungsrinne beschädigt."
+       ],
+       [
+        "💶",
+        "Er verlangt von der Nachbarin über [33’000 Euro]."
+       ]
+      ]
+     }
     }
    },
    "geprueft": [
@@ -1413,7 +1485,25 @@
       "#deutschland",
       "#urteil",
       "#rechtgehabt"
-     ]
+     ],
+     "reel": {
+      "gross": "[477 €] Rabatt – und den alten Kühlschrank behalten?",
+      "stempel": "DOPPELT?!",
+      "zeilen": [
+       [
+        "🧊",
+        "Ein Kühlschrank geht kurz nach Ende der Gewährleistung teilweise kaputt."
+       ],
+       [
+        "🏷️",
+        "Aus Kulanz gibt es [477,56 Euro] Rabatt auf ein neues Gerät."
+       ],
+       [
+        "🚚",
+        "Bei der Lieferung sagt der Käufer: «Den alten behalte ich, der läuft ja noch!»"
+       ]
+      ]
+     }
     }
    },
    "geprueft": [
