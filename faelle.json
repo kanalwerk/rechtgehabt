@@ -974,7 +974,7 @@
   },
   {
    "nr": "014",
-   "status": "geplant",
+   "status": "verwendet",
    "land": "DE",
    "bereich": "Tiere",
    "thema": "Tiere: Hunde und Paketbote",
@@ -1042,7 +1042,7 @@
      "lauf": "woche (Primärquelle gelesen)"
     }
    ],
-   "verwendet_am": null,
+   "verwendet_am": "2026-11-27",
    "geplant_fuer": "2026-11-27"
   },
   {
